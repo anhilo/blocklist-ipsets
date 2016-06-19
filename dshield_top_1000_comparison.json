@@ -146,7 +146,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 6517,
+		"ips": 6506,
 		"common": 5
 	},
 	{
@@ -345,25 +345,25 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 8
+		"common": 10
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 81664,
-		"common": 66
+		"ips": 83200,
+		"common": 68
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1806848,
-		"common": 350
+		"ips": 1808128,
+		"common": 349
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 400128,
-		"common": 155
+		"ips": 401664,
+		"common": 157
 	},
 	{
 		"name": "esentire_krnqlwlplttc_com",
@@ -422,14 +422,14 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91365,
+		"ips": 91369,
 		"common": 4
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 667007498,
-		"common": 16
+		"common": 18
 	},
 	{
 		"name": "firehol_level2",
@@ -440,19 +440,19 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1962377,
+		"ips": 1963658,
 		"common": 848
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569399,
+		"ips": 9569388,
 		"common": 28
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 33991,
+		"ips": 33995,
 		"common": 2
 	},
 	{
@@ -591,7 +591,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 107
+		"common": 106
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -639,7 +639,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 47
+		"common": 46
 	},
 	{
 		"name": "maxmind_proxy_fraud",
@@ -796,12 +796,6 @@
 		"category": "spam",
 		"ips": 20924774,
 		"common": 2
-	},
-	{
-		"name": "sorbs_recent_spam",
-		"category": "spam",
-		"ips": 956280,
-		"common": 1
 	},
 	{
 		"name": "sorbs_web",
