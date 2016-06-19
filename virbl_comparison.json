@@ -1,8 +1,20 @@
 [
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 18883,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 14923,
+		"common": 1
+	},
+	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 102752,
+		"ips": 102751,
 		"common": 8
 	},
 	{
@@ -18,10 +30,16 @@
 		"common": 1
 	},
 	{
+		"name": "jigsaw_attacks",
+		"category": "attacks",
+		"ips": 27109,
+		"common": 1
+	},
+	{
 		"name": "nixspam",
 		"category": "spam",
 		"ips": 26566,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "pushing_inertia_blocklist",
