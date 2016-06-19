@@ -27,7 +27,7 @@
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 250,
-		"common": 11
+		"common": 10
 	},
 	{
 		"name": "bambenek_ramnit",
@@ -93,12 +93,18 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 667005705,
-		"common": 11
+		"common": 10
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 1962927,
+		"common": 1
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9565463,
 		"common": 1
 	},
 	{
@@ -174,6 +180,12 @@
 		"common": 4
 	},
 	{
+		"name": "iblocklist_spyware",
+		"category": "reputation",
+		"ips": 339021,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_yoyo_adservers",
 		"category": "organizations",
 		"ips": 12402,
@@ -189,7 +201,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 6
+		"common": 5
 	},
 	{
 		"name": "pushing_inertia_blocklist",
