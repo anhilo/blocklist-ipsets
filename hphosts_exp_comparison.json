@@ -48,12 +48,6 @@
 		"common": 8
 	},
 	{
-		"name": "bds_atif",
-		"category": "reputation",
-		"ips": 22051,
-		"common": 14
-	},
-	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 6504,
@@ -108,21 +102,27 @@
 		"common": 1
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 53,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1386,
+		"ips": 1385,
 		"common": 1
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 18218,
+		"ips": 18220,
 		"common": 1
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5538,
+		"ips": 5557,
 		"common": 1
 	},
 	{
@@ -134,8 +134,8 @@
 	{
 		"name": "cleanmx_phishing",
 		"category": "spam",
-		"ips": 4905,
-		"common": 26
+		"ips": 3406,
+		"common": 23
 	},
 	{
 		"name": "cleanmx_viruses",
@@ -170,19 +170,19 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 81664,
+		"ips": 82432,
 		"common": 2
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1808128,
+		"ips": 1806336,
 		"common": 15
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 400896,
+		"ips": 401920,
 		"common": 12
 	},
 	{
@@ -200,13 +200,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 15295,
+		"ips": 15298,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 667005704,
+		"ips": 667005705,
 		"common": 19
 	},
 	{
@@ -224,7 +224,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9570220,
+		"ips": 9570222,
 		"common": 79
 	},
 	{
