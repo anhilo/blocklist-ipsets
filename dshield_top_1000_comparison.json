@@ -194,19 +194,19 @@
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1401,
+		"ips": 1398,
 		"common": 2
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 18193,
+		"ips": 18195,
 		"common": 3
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5546,
+		"ips": 5554,
 		"common": 2
 	},
 	{
@@ -224,8 +224,8 @@
 	{
 		"name": "cleanmx_phishing",
 		"category": "spam",
-		"ips": 1239,
-		"common": 2
+		"ips": 3462,
+		"common": 3
 	},
 	{
 		"name": "cleanmx_viruses",
@@ -410,7 +410,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 15122,
+		"ips": 15120,
 		"common": 2
 	},
 	{
@@ -446,7 +446,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9570377,
+		"ips": 9570380,
 		"common": 29
 	},
 	{
@@ -766,6 +766,12 @@
 		"category": "reputation",
 		"ips": 45888648,
 		"common": 181
+	},
+	{
+		"name": "ransomware_feed",
+		"category": "malware",
+		"ips": 859,
+		"common": 1
 	},
 	{
 		"name": "sblam",
