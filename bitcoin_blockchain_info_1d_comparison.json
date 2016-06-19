@@ -8,62 +8,50 @@
 	{
 		"name": "bitcoin_blockchain_info",
 		"category": "organizations",
-		"ips": 204,
-		"common": 204
+		"ips": 188,
+		"common": 188
 	},
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
 		"ips": 1333,
-		"common": 237
+		"common": 235
 	},
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
 		"ips": 535,
-		"common": 237
+		"common": 235
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4880,
-		"common": 230
+		"ips": 4867,
+		"common": 228
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6731,
-		"common": 234
+		"ips": 6720,
+		"common": 232
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 28973,
-		"common": 234
+		"ips": 28980,
+		"common": 232
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 12857,
-		"common": 234
+		"ips": 12860,
+		"common": 232
 	},
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
 		"ips": 6912,
 		"common": 3
-	},
-	{
-		"name": "bogons",
-		"category": "unroutable",
-		"ips": 592708608,
-		"common": 1
-	},
-	{
-		"name": "cidr_report_bogons",
-		"category": "unroutable",
-		"ips": 604500552,
-		"common": 1
 	},
 	{
 		"name": "dm_tor",
@@ -104,14 +92,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91279,
+		"ips": 91273,
 		"common": 3
-	},
-	{
-		"name": "firehol_level1",
-		"category": "attacks",
-		"ips": 667005707,
-		"common": 1
 	},
 	{
 		"name": "firehol_level3",
@@ -130,12 +112,6 @@
 		"category": "attacks",
 		"ips": 46097937,
 		"common": 90
-	},
-	{
-		"name": "fullbogons",
-		"category": "unroutable",
-		"ips": 643396392,
-		"common": 1
 	},
 	{
 		"name": "gofferje_sip",
@@ -159,13 +135,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 23
-	},
-	{
-		"name": "iblocklist_cidr_report_bogons",
-		"category": "unroutable",
-		"ips": 604510792,
-		"common": 1
+		"common": 22
 	},
 	{
 		"name": "iblocklist_edu",
@@ -174,28 +144,16 @@
 		"common": 7
 	},
 	{
-		"name": "iblocklist_fornonlancomputers",
-		"category": "reputation",
-		"ips": 302055424,
-		"common": 1
-	},
-	{
 		"name": "iblocklist_hijacked",
 		"category": "attacks",
 		"ips": 9145088,
 		"common": 1
 	},
 	{
-		"name": "iblocklist_iana_private",
-		"category": "unroutable",
-		"ips": 51643638,
-		"common": 1
-	},
-	{
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "iblocklist_isp_verizon",
@@ -255,7 +213,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373400906,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "stopforumspam_180d",
