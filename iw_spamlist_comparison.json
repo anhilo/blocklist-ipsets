@@ -68,7 +68,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7128,
+		"ips": 7117,
 		"common": 15
 	},
 	{
@@ -99,13 +99,13 @@
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 116997,
-		"common": 15
+		"common": 14
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
 		"ips": 33651,
-		"common": 12
+		"common": 11
 	},
 	{
 		"name": "cleantalk_new_1d",
@@ -117,13 +117,13 @@
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
 		"ips": 99923,
-		"common": 12
+		"common": 11
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
 		"ips": 22728,
-		"common": 10
+		"common": 9
 	},
 	{
 		"name": "cleantalk_updated_1d",
@@ -164,14 +164,14 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 20850,
+		"ips": 20852,
 		"common": 4
 	},
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
 		"ips": 89028,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "dshield_1d",
@@ -183,7 +183,7 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 1802240,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "dshield_7d",
@@ -213,12 +213,12 @@
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 284486,
-		"common": 31
+		"common": 30
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91273,
+		"ips": 91291,
 		"common": 12
 	},
 	{
@@ -237,12 +237,12 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 1956215,
-		"common": 446
+		"common": 444
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9571500,
+		"ips": 9571490,
 		"common": 32
 	},
 	{
@@ -255,7 +255,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46097937,
-		"common": 82
+		"common": 79
 	},
 	{
 		"name": "gofferje_sip",
@@ -303,7 +303,7 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983648,
-		"common": 18
+		"common": 19
 	},
 	{
 		"name": "iblocklist_hijacked",
@@ -345,7 +345,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762822833,
-		"common": 52
+		"common": 51
 	},
 	{
 		"name": "iblocklist_level2",
@@ -357,7 +357,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 161
+		"common": 157
 	},
 	{
 		"name": "iblocklist_org_blizzard",
@@ -375,7 +375,7 @@
 		"name": "iblocklist_pedophiles",
 		"category": "reputation",
 		"ips": 839136,
-		"common": 31
+		"common": 29
 	},
 	{
 		"name": "iblocklist_rangetest",
@@ -405,13 +405,13 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 52052,
-		"common": 99
+		"common": 97
 	},
 	{
 		"name": "nixspam",
 		"category": "spam",
 		"ips": 34381,
-		"common": 738
+		"common": 766
 	},
 	{
 		"name": "nullsecure",
@@ -519,7 +519,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 45888648,
-		"common": 80
+		"common": 77
 	},
 	{
 		"name": "ri_web_proxies_1d",
@@ -549,7 +549,7 @@
 		"name": "snort_ipfilter",
 		"category": "attacks",
 		"ips": 95490,
-		"common": 416
+		"common": 411
 	},
 	{
 		"name": "socks_proxy_1d",
@@ -579,37 +579,37 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373400906,
-		"common": 327
+		"common": 317
 	},
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
 		"ips": 29738,
-		"common": 566
+		"common": 558
 	},
 	{
 		"name": "sorbs_noserver",
 		"category": "spam",
 		"ips": 20924774,
-		"common": 87
+		"common": 86
 	},
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 935605,
-		"common": 965
+		"common": 942
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6000672,
-		"common": 180
+		"common": 175
 	},
 	{
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136183549,
-		"common": 126
+		"common": 129
 	},
 	{
 		"name": "spamhaus_drop",
@@ -681,13 +681,13 @@
 		"name": "stopforumspam_toxic",
 		"category": "abuse",
 		"ips": 552279,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
 		"ips": 95753,
-		"common": 407
+		"common": 405
 	},
 	{
 		"name": "voipbl",
