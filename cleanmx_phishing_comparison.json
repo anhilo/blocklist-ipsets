@@ -68,13 +68,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 18876,
+		"ips": 18818,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 2247,
+		"ips": 2242,
 		"common": 1
 	},
 	{
@@ -128,25 +128,31 @@
 	{
 		"name": "cleanmx_viruses",
 		"category": "spam",
-		"ips": 13147,
-		"common": 386
+		"ips": 13152,
+		"common": 389
+	},
+	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 4295,
+		"common": 1
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 9755,
+		"ips": 9739,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 118123,
+		"ips": 118118,
 		"common": 3
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 33986,
+		"ips": 33975,
 		"common": 1
 	},
 	{
@@ -156,21 +162,27 @@
 		"common": 2
 	},
 	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5709,
+		"ips": 5687,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 33157,
+		"ips": 33152,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 15012,
+		"ips": 14997,
 		"common": 1
 	},
 	{
@@ -248,19 +260,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 15413,
+		"ips": 15391,
 		"common": 1
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 286161,
+		"ips": 286157,
 		"common": 3
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91425,
+		"ips": 91417,
 		"common": 1
 	},
 	{
@@ -272,7 +284,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 108888,
+		"ips": 108834,
 		"common": 7
 	},
 	{
@@ -284,8 +296,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9570944,
-		"common": 416
+		"ips": 9570948,
+		"common": 419
 	},
 	{
 		"name": "firehol_webserver",
@@ -440,7 +452,7 @@
 	{
 		"name": "iblocklist_spamhaus_drop",
 		"category": "attacks",
-		"ips": 22830592,
+		"ips": 22829568,
 		"common": 6
 	},
 	{
@@ -506,7 +518,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 22559,
+		"ips": 22477,
 		"common": 3
 	},
 	{
@@ -524,7 +536,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 859,
+		"ips": 860,
 		"common": 8
 	},
 	{
@@ -602,7 +614,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 94838,
+		"ips": 94460,
 		"common": 1
 	},
 	{
