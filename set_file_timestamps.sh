@@ -1,6 +1,6 @@
 #!/bin/bash
 [ ! "$1" = "YES_I_AM_SURE_DO_IT_PLEASE" ] && echo "READ ME NOW" && exit 1
-[ -f 'alienvault_reputation.ipset' ] && /bin/touch --date=@1466325003 'alienvault_reputation.ipset'
+[ -f 'alienvault_reputation.ipset' ] && /bin/touch --date=@1466346602 'alienvault_reputation.ipset'
 [ -f 'geolite2_country/anonymous.netset' ] && /bin/touch --date=@1462498435 'geolite2_country/anonymous.netset'
 [ -f 'asprox_c2.ipset' ] && /bin/touch --date=@1462185851 'asprox_c2.ipset'
 [ -f 'atlas_attacks.ipset' ] && /bin/touch --date=@1466208410 'atlas_attacks.ipset'
@@ -1014,7 +1014,7 @@
 [ -f 'ipblacklistcloud_recent_30d.ipset' ] && /bin/touch --date=@1466190497 'ipblacklistcloud_recent_30d.ipset'
 [ -f 'ipblacklistcloud_recent_7d.ipset' ] && /bin/touch --date=@1466190497 'ipblacklistcloud_recent_7d.ipset'
 [ -f 'ipblacklistcloud_top.ipset' ] && /bin/touch --date=@1466010989 'ipblacklistcloud_top.ipset'
-[ -f 'iw_spamlist.ipset' ] && /bin/touch --date=@1466343317 'iw_spamlist.ipset'
+[ -f 'iw_spamlist.ipset' ] && /bin/touch --date=@1466346917 'iw_spamlist.ipset'
 [ -f 'iw_wormlist.ipset' ] && /bin/touch --date=@1466228121 'iw_wormlist.ipset'
 [ -f 'jigsaw_attacks.ipset' ] && /bin/touch --date=@1459665960 'jigsaw_attacks.ipset'
 [ -f 'jigsaw_malware.ipset' ] && /bin/touch --date=@1459665962 'jigsaw_malware.ipset'
@@ -1141,8 +1141,8 @@
 [ -f 'virbl.ipset' ] && /bin/touch --date=@1466339822 'virbl.ipset'
 [ -f 'voipbl.netset' ] && /bin/touch --date=@1466279073 'voipbl.netset'
 [ -f 'vxvault.ipset' ] && /bin/touch --date=@1466209451 'vxvault.ipset'
-[ -f 'xroxy.ipset' ] && /bin/touch --date=@1466335981 'xroxy.ipset'
-[ -f 'xroxy_1d.ipset' ] && /bin/touch --date=@1466343181 'xroxy_1d.ipset'
+[ -f 'xroxy.ipset' ] && /bin/touch --date=@1466346781 'xroxy.ipset'
+[ -f 'xroxy_1d.ipset' ] && /bin/touch --date=@1466346781 'xroxy_1d.ipset'
 [ -f 'xroxy_30d.ipset' ] && /bin/touch --date=@1466328781 'xroxy_30d.ipset'
 [ -f 'xroxy_7d.ipset' ] && /bin/touch --date=@1466343181 'xroxy_7d.ipset'
 [ -f 'yoyo_adservers.ipset' ] && /bin/touch --date=@1466162402 'yoyo_adservers.ipset'
