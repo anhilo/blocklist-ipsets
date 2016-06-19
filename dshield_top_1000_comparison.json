@@ -44,8 +44,8 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 253,
-		"common": 2
+		"ips": 251,
+		"common": 1
 	},
 	{
 		"name": "bambenek_suppobox",
@@ -146,7 +146,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 6530,
+		"ips": 6528,
 		"common": 5
 	},
 	{
@@ -428,8 +428,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 667007499,
-		"common": 17
+		"ips": 667007497,
+		"common": 16
 	},
 	{
 		"name": "firehol_level2",
@@ -446,7 +446,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9566912,
+		"ips": 9566909,
 		"common": 27
 	},
 	{
@@ -766,6 +766,12 @@
 		"category": "reputation",
 		"ips": 45888648,
 		"common": 180
+	},
+	{
+		"name": "ransomware_feed",
+		"category": "malware",
+		"ips": 860,
+		"common": 1
 	},
 	{
 		"name": "sblam",
