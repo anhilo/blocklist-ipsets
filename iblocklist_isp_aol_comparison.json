@@ -218,7 +218,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 15623,
+		"ips": 15614,
 		"common": 1
 	},
 	{
@@ -240,6 +240,12 @@
 		"common": 5
 	},
 	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 102505,
+		"common": 1
+	},
+	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 1946730,
@@ -248,7 +254,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9571591,
+		"ips": 9571594,
 		"common": 25
 	},
 	{
@@ -384,10 +390,16 @@
 		"common": 20
 	},
 	{
+		"name": "openbl_1d",
+		"category": "attacks",
+		"ips": 117,
+		"common": 1
+	},
+	{
 		"name": "openbl_all",
 		"category": "attacks",
-		"ips": 118909,
-		"common": 25
+		"ips": 118915,
+		"common": 26
 	},
 	{
 		"name": "php_dictionary_30d",
