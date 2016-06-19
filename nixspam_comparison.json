@@ -21,7 +21,7 @@
 		"name": "bbcan177_ms3",
 		"category": "malware",
 		"ips": 30151694,
-		"common": 178
+		"common": 176
 	},
 	{
 		"name": "bi_any_2_1d",
@@ -33,13 +33,13 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 8021,
-		"common": 304
+		"common": 298
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 2644,
-		"common": 156
+		"common": 158
 	},
 	{
 		"name": "bi_http_2_30d",
@@ -51,7 +51,7 @@
 		"name": "bi_mail_2_30d",
 		"category": "attacks",
 		"ips": 1886,
-		"common": 294
+		"common": 288
 	},
 	{
 		"name": "bi_ssh_2_30d",
@@ -62,56 +62,62 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 18496,
-		"common": 1425
+		"ips": 18479,
+		"common": 1426
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9808,
+		"ips": 9810,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 647,
+		"ips": 649,
 		"common": 9
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 258,
+		"ips": 259,
 		"common": 2
+	},
+	{
+		"name": "blocklist_de_ftp",
+		"category": "attacks",
+		"ips": 493,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 839,
+		"ips": 841,
 		"common": 6
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14840,
-		"common": 1400
+		"ips": 14867,
+		"common": 1399
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1910,
-		"common": 14
+		"ips": 1855,
+		"common": 15
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 89,
-		"common": 2
+		"ips": 87,
+		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7008,
-		"common": 32
+		"ips": 7010,
+		"common": 30
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -129,7 +135,7 @@
 		"name": "blueliv_crimeserver_last_2d",
 		"category": "attacks",
 		"ips": 7085,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -141,7 +147,7 @@
 		"name": "blueliv_crimeserver_last_7d",
 		"category": "attacks",
 		"ips": 7812,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "blueliv_crimeserver_online",
@@ -171,7 +177,7 @@
 		"name": "botscout_30d",
 		"category": "abuse",
 		"ips": 18246,
-		"common": 136
+		"common": 137
 	},
 	{
 		"name": "botscout_7d",
@@ -213,7 +219,7 @@
 		"name": "cleanmx_phishing",
 		"category": "spam",
 		"ips": 4828,
-		"common": 4
+		"common": 6
 	},
 	{
 		"name": "cleanmx_viruses",
@@ -224,49 +230,49 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 4072,
-		"common": 51
+		"ips": 4074,
+		"common": 49
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 9418,
-		"common": 92
+		"ips": 9447,
+		"common": 90
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 117038,
-		"common": 252
+		"ips": 117026,
+		"common": 244
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 33669,
-		"common": 158
+		"ips": 33619,
+		"common": 154
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 2072,
+		"ips": 2074,
 		"common": 20
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 4700,
+		"ips": 4718,
 		"common": 37
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 99961,
-		"common": 146
+		"ips": 99951,
+		"common": 144
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 22742,
+		"ips": 22701,
 		"common": 74
 	},
 	{
@@ -279,25 +285,25 @@
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 31
+		"common": 29
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5777,
-		"common": 56
+		"ips": 5798,
+		"common": 54
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 33214,
-		"common": 133
+		"ips": 33216,
+		"common": 129
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 15099,
-		"common": 99
+		"ips": 15084,
+		"common": 96
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -309,13 +315,13 @@
 		"name": "cybercrime",
 		"category": "malware",
 		"ips": 7188,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "darklist_de",
 		"category": "attacks",
 		"ips": 253407,
-		"common": 174
+		"common": 168
 	},
 	{
 		"name": "dm_tor",
@@ -333,13 +339,13 @@
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
 		"ips": 240567,
-		"common": 696
+		"common": 693
 	},
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
 		"ips": 303457,
-		"common": 128
+		"common": 127
 	},
 	{
 		"name": "dronebl_ddos_drones",
@@ -357,13 +363,13 @@
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
 		"ips": 20848,
-		"common": 190
+		"common": 191
 	},
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
 		"ips": 89028,
-		"common": 59
+		"common": 58
 	},
 	{
 		"name": "dshield_1d",
@@ -375,13 +381,13 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 1799936,
-		"common": 181
+		"common": 175
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 398848,
-		"common": 45
+		"common": 42
 	},
 	{
 		"name": "et_block",
@@ -410,20 +416,20 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 15443,
-		"common": 202
+		"ips": 15477,
+		"common": 201
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 284517,
-		"common": 865
+		"ips": 284510,
+		"common": 860
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
 		"ips": 91293,
-		"common": 948
+		"common": 944
 	},
 	{
 		"name": "firehol_level1",
@@ -434,32 +440,32 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 104434,
-		"common": 1430
+		"ips": 104419,
+		"common": 1431
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 1953909,
-		"common": 5204
+		"common": 4975
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9571382,
-		"common": 260
+		"ips": 9571383,
+		"common": 257
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
 		"ips": 33916,
-		"common": 944
+		"common": 940
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46097937,
-		"common": 301
+		"common": 299
 	},
 	{
 		"name": "gofferje_sip",
@@ -483,7 +489,7 @@
 		"name": "haley_ssh",
 		"category": "attacks",
 		"ips": 21305,
-		"common": 11
+		"common": 10
 	},
 	{
 		"name": "hphosts_ats",
@@ -507,25 +513,25 @@
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 11876,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "iblocklist_ads",
 		"category": "organizations",
 		"ips": 888645,
-		"common": 21
+		"common": 20
 	},
 	{
 		"name": "iblocklist_badpeers",
 		"category": "reputation",
 		"ips": 1568848,
-		"common": 15
+		"common": 16
 	},
 	{
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 1561
+		"common": 1543
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -543,13 +549,13 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983648,
-		"common": 217
+		"common": 208
 	},
 	{
 		"name": "iblocklist_hijacked",
 		"category": "attacks",
 		"ips": 9145088,
-		"common": 67
+		"common": 64
 	},
 	{
 		"name": "iblocklist_isp_aol",
@@ -567,7 +573,7 @@
 		"name": "iblocklist_isp_charter",
 		"category": "organizations",
 		"ips": 6138112,
-		"common": 79
+		"common": 76
 	},
 	{
 		"name": "iblocklist_isp_comcast",
@@ -603,31 +609,31 @@
 		"name": "iblocklist_isp_twc",
 		"category": "organizations",
 		"ips": 15015936,
-		"common": 82
+		"common": 83
 	},
 	{
 		"name": "iblocklist_isp_verizon",
 		"category": "organizations",
 		"ips": 18087936,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762822833,
-		"common": 559
+		"common": 566
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 493
+		"common": 492
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 2141
+		"common": 2068
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -651,7 +657,7 @@
 		"name": "iblocklist_org_linden_lab",
 		"category": "organizations",
 		"ips": 23600,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_org_microsoft",
@@ -663,7 +669,7 @@
 		"name": "iblocklist_pedophiles",
 		"category": "reputation",
 		"ips": 839136,
-		"common": 368
+		"common": 366
 	},
 	{
 		"name": "iblocklist_rangetest",
@@ -681,7 +687,7 @@
 		"name": "iblocklist_spider",
 		"category": "organizations",
 		"ips": 860168,
-		"common": 14
+		"common": 13
 	},
 	{
 		"name": "iblocklist_spyware",
@@ -717,7 +723,7 @@
 		"name": "iw_spamlist",
 		"category": "spam",
 		"ips": 2605,
-		"common": 763
+		"common": 716
 	},
 	{
 		"name": "jigsaw_attacks",
@@ -729,13 +735,13 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 144
+		"common": 145
 	},
 	{
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 52052,
-		"common": 3089
+		"common": 3009
 	},
 	{
 		"name": "maxmind_proxy_fraud",
@@ -801,7 +807,7 @@
 		"name": "openbl_all",
 		"category": "attacks",
 		"ips": 118909,
-		"common": 50
+		"common": 51
 	},
 	{
 		"name": "packetmail",
@@ -819,7 +825,7 @@
 		"name": "packetmail_mail",
 		"category": "reputation",
 		"ips": 272,
-		"common": 94
+		"common": 90
 	},
 	{
 		"name": "packetmail_ramnode",
@@ -855,13 +861,13 @@
 		"name": "php_dictionary_30d",
 		"category": "spam",
 		"ips": 1109,
-		"common": 206
+		"common": 207
 	},
 	{
 		"name": "php_dictionary_7d",
 		"category": "spam",
 		"ips": 346,
-		"common": 97
+		"common": 96
 	},
 	{
 		"name": "php_harvesters",
@@ -903,37 +909,37 @@
 		"name": "php_spammers_30d",
 		"category": "spam",
 		"ips": 1157,
-		"common": 207
+		"common": 206
 	},
 	{
 		"name": "php_spammers_7d",
 		"category": "spam",
 		"ips": 301,
-		"common": 76
+		"common": 75
 	},
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
 		"ips": 1402,
-		"common": 78
+		"common": 77
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
 		"ips": 2574,
-		"common": 104
+		"common": 103
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
 		"ips": 9201,
-		"common": 131
+		"common": 129
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
 		"ips": 4986,
-		"common": 121
+		"common": 119
 	},
 	{
 		"name": "proxyrss",
@@ -951,13 +957,13 @@
 		"name": "proxyrss_30d",
 		"category": "anonymizers",
 		"ips": 8831,
-		"common": 72
+		"common": 71
 	},
 	{
 		"name": "proxyrss_7d",
 		"category": "anonymizers",
 		"ips": 4668,
-		"common": 65
+		"common": 64
 	},
 	{
 		"name": "proxyspy",
@@ -975,13 +981,13 @@
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
 		"ips": 6017,
-		"common": 46
+		"common": 44
 	},
 	{
 		"name": "proxyspy_7d",
 		"category": "anonymizers",
 		"ips": 2124,
-		"common": 28
+		"common": 26
 	},
 	{
 		"name": "proxz_1d",
@@ -1005,7 +1011,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 45888648,
-		"common": 278
+		"common": 275
 	},
 	{
 		"name": "ransomware_feed",
@@ -1029,7 +1035,7 @@
 		"name": "ri_connect_proxies_30d",
 		"category": "anonymizers",
 		"ips": 1753,
-		"common": 46
+		"common": 45
 	},
 	{
 		"name": "ri_connect_proxies_7d",
@@ -1071,7 +1077,7 @@
 		"name": "sblam",
 		"category": "abuse",
 		"ips": 6876,
-		"common": 85
+		"common": 86
 	},
 	{
 		"name": "shunlist",
@@ -1083,61 +1089,61 @@
 		"name": "snort_ipfilter",
 		"category": "attacks",
 		"ips": 95490,
-		"common": 4025
+		"common": 3799
 	},
 	{
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 45
+		"common": 47
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
 		"ips": 1399,
-		"common": 670
+		"common": 667
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
 		"ips": 8242,
-		"common": 835
+		"common": 833
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
 		"ips": 3436,
-		"common": 769
+		"common": 768
 	},
 	{
 		"name": "sorbs_anonymizers",
 		"category": "spam",
 		"ips": 602739,
-		"common": 78
+		"common": 77
 	},
 	{
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373400906,
-		"common": 4818
+		"common": 4678
 	},
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
 		"ips": 29738,
-		"common": 7563
+		"common": 7461
 	},
 	{
 		"name": "sorbs_noserver",
 		"category": "spam",
 		"ips": 20924774,
-		"common": 1434
+		"common": 1371
 	},
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 935605,
-		"common": 14079
+		"common": 13746
 	},
 	{
 		"name": "sorbs_smtp",
@@ -1149,7 +1155,7 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6000672,
-		"common": 5337
+		"common": 5187
 	},
 	{
 		"name": "sorbs_zombie",
@@ -1161,7 +1167,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136183549,
-		"common": 1662
+		"common": 1629
 	},
 	{
 		"name": "sp_atma",
@@ -1209,13 +1215,13 @@
 		"name": "stopforumspam",
 		"category": "abuse",
 		"ips": 170508,
-		"common": 516
+		"common": 517
 	},
 	{
 		"name": "stopforumspam_180d",
 		"category": "abuse",
 		"ips": 331983,
-		"common": 680
+		"common": 677
 	},
 	{
 		"name": "stopforumspam_1d",
@@ -1227,25 +1233,25 @@
 		"name": "stopforumspam_30d",
 		"category": "abuse",
 		"ips": 65496,
-		"common": 361
+		"common": 364
 	},
 	{
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 667812,
-		"common": 853
+		"common": 843
 	},
 	{
 		"name": "stopforumspam_7d",
 		"category": "abuse",
 		"ips": 23182,
-		"common": 236
+		"common": 238
 	},
 	{
 		"name": "stopforumspam_90d",
 		"category": "abuse",
 		"ips": 171362,
-		"common": 516
+		"common": 517
 	},
 	{
 		"name": "stopforumspam_toxic",
@@ -1263,7 +1269,7 @@
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
 		"ips": 95754,
-		"common": 4846
+		"common": 4630
 	},
 	{
 		"name": "threatcrowd",
