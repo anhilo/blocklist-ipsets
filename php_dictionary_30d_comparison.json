@@ -74,7 +74,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 6658,
+		"ips": 6456,
 		"common": 5
 	},
 	{
@@ -308,7 +308,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 100464,
+		"ips": 101997,
 		"common": 185
 	},
 	{
@@ -320,7 +320,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9570886,
+		"ips": 9570685,
 		"common": 107
 	},
 	{
@@ -976,6 +976,12 @@
 		"category": "anonymizers",
 		"ips": 1498,
 		"common": 14
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 9756,
+		"common": 1
 	},
 	{
 		"name": "xroxy",
