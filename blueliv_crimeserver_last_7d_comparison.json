@@ -188,13 +188,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 18612,
-		"common": 3
+		"ips": 18642,
+		"common": 4
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9813,
+		"ips": 9814,
 		"common": 2
 	},
 	{
@@ -204,9 +204,15 @@
 		"common": 2
 	},
 	{
+		"name": "blocklist_de_ftp",
+		"category": "attacks",
+		"ips": 485,
+		"common": 1
+	},
+	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 2009,
+		"ips": 2011,
 		"common": 1
 	},
 	{
@@ -378,12 +384,6 @@
 		"common": 24
 	},
 	{
-		"name": "dm_tor",
-		"category": "anonymizers",
-		"ips": 6859,
-		"common": 1
-	},
-	{
 		"name": "dragon_http",
 		"category": "attacks",
 		"ips": 59136,
@@ -518,7 +518,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91234,
+		"ips": 91255,
 		"common": 5
 	},
 	{
@@ -530,13 +530,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 102757,
-		"common": 47
+		"ips": 102786,
+		"common": 48
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1954550,
+		"ips": 1954555,
 		"common": 295
 	},
 	{
@@ -548,7 +548,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 33913,
+		"ips": 33914,
 		"common": 4
 	},
 	{
@@ -872,7 +872,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 34811,
+		"ips": 34630,
 		"common": 3
 	},
 	{
@@ -1034,8 +1034,8 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 860,
-		"common": 38
+		"ips": 859,
+		"common": 37
 	},
 	{
 		"name": "ransomware_locky_c2",
