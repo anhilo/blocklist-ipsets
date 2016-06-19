@@ -98,37 +98,37 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 18892,
+		"ips": 18922,
 		"common": 183
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 651,
-		"common": 130
+		"ips": 653,
+		"common": 129
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 460,
+		"ips": 461,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 802,
+		"ips": 806,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14922,
-		"common": 51
+		"ips": 14941,
+		"common": 52
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 2265,
+		"ips": 2272,
 		"common": 1
 	},
 	{
@@ -186,22 +186,28 @@
 		"common": 6
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 56,
+		"common": 3
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1418,
+		"ips": 1422,
 		"common": 65
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 18190,
+		"ips": 18198,
 		"common": 566
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5555,
-		"common": 219
+		"ips": 5553,
+		"common": 218
 	},
 	{
 		"name": "bruteforceblocker",
@@ -518,7 +524,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 15143,
+		"ips": 15146,
 		"common": 266
 	},
 	{
@@ -542,19 +548,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 106863,
+		"ips": 106891,
 		"common": 242
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1971199,
+		"ips": 1971752,
 		"common": 1419
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569856,
+		"ips": 9569864,
 		"common": 706
 	},
 	{
@@ -872,8 +878,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 23983,
-		"common": 84
+		"ips": 24206,
+		"common": 86
 	},
 	{
 		"name": "nullsecure",
@@ -1406,7 +1412,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 94722,
+		"ips": 95288,
 		"common": 97
 	},
 	{
