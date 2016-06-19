@@ -20,8 +20,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 843,
-		"common": 168
+		"ips": 845,
+		"common": 165
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -62,31 +62,37 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 18488,
+		"ips": 18547,
 		"common": 266
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9810,
+		"ips": 9811,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 501,
+		"ips": 517,
 		"common": 2
+	},
+	{
+		"name": "blocklist_de_imap",
+		"category": "attacks",
+		"ips": 870,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14860,
+		"ips": 14898,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1857,
+		"ips": 1861,
 		"common": 261
 	},
 	{
@@ -266,13 +272,13 @@
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1795584,
+		"ips": 1792000,
 		"common": 253
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 397312,
+		"ips": 396032,
 		"common": 124
 	},
 	{
@@ -314,13 +320,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 103657,
+		"ips": 103712,
 		"common": 292
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1950106,
+		"ips": 1946535,
 		"common": 1141
 	},
 	{
@@ -530,8 +536,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 33153,
-		"common": 1
+		"ips": 32877,
+		"common": 2
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -740,7 +746,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 95657,
+		"ips": 95663,
 		"common": 3
 	},
 	{
