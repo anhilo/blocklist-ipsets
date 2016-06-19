@@ -284,20 +284,20 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 18851,
-		"common": 4559
+		"ips": 18795,
+		"common": 4557
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
 		"ips": 9794,
-		"common": 4233
+		"common": 4232
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 660,
-		"common": 101
+		"ips": 653,
+		"common": 100
 	},
 	{
 		"name": "blocklist_de_bruteforce",
@@ -308,19 +308,19 @@
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 450,
+		"ips": 446,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 816,
+		"ips": 814,
 		"common": 22
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14885,
+		"ips": 14841,
 		"common": 4228
 	},
 	{
@@ -332,7 +332,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 2258,
+		"ips": 2257,
 		"common": 127
 	},
 	{
@@ -680,8 +680,8 @@
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
-		"ips": 847,
-		"common": 181
+		"ips": 848,
+		"common": 180
 	},
 	{
 		"name": "dyndns_ponmocup",
@@ -878,8 +878,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 102464,
-		"common": 12777
+		"ips": 102414,
+		"common": 12775
 	},
 	{
 		"name": "firehol_level3",
@@ -1328,7 +1328,7 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 159,
+		"ips": 165,
 		"common": 7
 	},
 	{
@@ -1710,9 +1710,15 @@
 		"common": 484
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 4
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1323,
+		"ips": 1325,
 		"common": 39
 	},
 	{
@@ -1724,7 +1730,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 3416,
+		"ips": 3415,
 		"common": 79
 	},
 	{
@@ -1820,7 +1826,7 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 235,
+		"ips": 236,
 		"common": 44
 	},
 	{
