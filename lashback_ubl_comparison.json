@@ -134,7 +134,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 6612,
+		"ips": 6609,
 		"common": 20
 	},
 	{
@@ -402,22 +402,28 @@
 		"common": 49
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 90368,
+		"ips": 90112,
 		"common": 11
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1828096,
+		"ips": 1826304,
 		"common": 384
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 413952,
-		"common": 116
+		"ips": 412416,
+		"common": 114
 	},
 	{
 		"name": "dyndns_ponmocup",
@@ -476,19 +482,19 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91379,
+		"ips": 91386,
 		"common": 1330
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 667007502,
-		"common": 42
+		"ips": 667007247,
+		"common": 43
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 109875,
+		"ips": 109623,
 		"common": 767
 	},
 	{
@@ -506,7 +512,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34076,
+		"ips": 34083,
 		"common": 1327
 	},
 	{
@@ -1125,24 +1131,24 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 22
+		"common": 28
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1262,
+		"ips": 1265,
 		"common": 391
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8255,
+		"ips": 8254,
 		"common": 1197
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 3418,
+		"ips": 3419,
 		"common": 771
 	},
 	{
@@ -1226,19 +1232,19 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 205,
+		"ips": 212,
 		"common": 2
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 14194,
+		"ips": 14203,
 		"common": 30
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 2211,
+		"ips": 2210,
 		"common": 7
 	},
 	{
