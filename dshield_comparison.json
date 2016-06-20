@@ -134,7 +134,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 5138,
+		"ips": 5136,
 		"common": 11
 	},
 	{
@@ -246,21 +246,27 @@
 		"common": 11
 	},
 	{
+		"name": "dronebl_worms_bots",
+		"category": "malware",
+		"ips": 89027,
+		"common": 1
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 71936,
+		"ips": 72448,
 		"common": 5120
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1740032,
+		"ips": 1736448,
 		"common": 5120
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 388608,
+		"ips": 388352,
 		"common": 5120
 	},
 	{
@@ -302,7 +308,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91350,
+		"ips": 91352,
 		"common": 1
 	},
 	{
@@ -315,24 +321,24 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 91561,
-		"common": 5120
+		"common": 4608
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1897210,
+		"ips": 1893631,
 		"common": 5120
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569241,
-		"common": 48
+		"ips": 9569240,
+		"common": 49
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34002,
+		"ips": 34004,
 		"common": 1
 	},
 	{
@@ -363,7 +369,7 @@
 		"name": "haley_ssh",
 		"category": "attacks",
 		"ips": 21310,
-		"common": 30
+		"common": 31
 	},
 	{
 		"name": "hphosts_ats",
@@ -405,7 +411,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762822833,
-		"common": 67
+		"common": 75
 	},
 	{
 		"name": "iblocklist_level2",
@@ -429,7 +435,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 84
+		"common": 85
 	},
 	{
 		"name": "lashback_ubl",
@@ -447,13 +453,13 @@
 		"name": "nullsecure",
 		"category": "reputation",
 		"ips": 29439,
-		"common": 42
+		"common": 43
 	},
 	{
 		"name": "openbl_180d",
 		"category": "attacks",
 		"ips": 9490,
-		"common": 47
+		"common": 48
 	},
 	{
 		"name": "openbl_1d",
@@ -471,7 +477,7 @@
 		"name": "openbl_360d",
 		"category": "attacks",
 		"ips": 20819,
-		"common": 62
+		"common": 63
 	},
 	{
 		"name": "openbl_60d",
@@ -495,7 +501,7 @@
 		"name": "openbl_all",
 		"category": "attacks",
 		"ips": 118946,
-		"common": 109
+		"common": 111
 	},
 	{
 		"name": "packetmail",
@@ -657,7 +663,7 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6000864,
-		"common": 14
+		"common": 9
 	},
 	{
 		"name": "sp_anti_infringement",
@@ -728,7 +734,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 98283,
+		"ips": 98285,
 		"common": 1
 	},
 	{
