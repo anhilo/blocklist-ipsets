@@ -248,7 +248,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 16520,
+		"ips": 16453,
 		"common": 89
 	},
 	{
@@ -260,7 +260,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91428,
+		"ips": 91420,
 		"common": 45
 	},
 	{
@@ -284,13 +284,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569272,
+		"ips": 9569266,
 		"common": 71
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34004,
+		"ips": 34001,
 		"common": 43
 	},
 	{
@@ -762,21 +762,27 @@
 		"common": 2
 	},
 	{
+		"name": "sslproxies",
+		"category": "anonymizers",
+		"ips": 100,
+		"common": 1
+	},
+	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 163,
+		"ips": 160,
 		"common": 2
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 13964,
+		"ips": 13961,
 		"common": 3
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1505,
+		"ips": 1501,
 		"common": 2
 	},
 	{
@@ -794,8 +800,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 5053,
-		"common": 59
+		"ips": 4990,
+		"common": 57
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -860,7 +866,7 @@
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1501,
+		"ips": 1503,
 		"common": 35
 	},
 	{
