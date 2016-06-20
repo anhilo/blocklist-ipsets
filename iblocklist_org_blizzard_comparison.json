@@ -74,25 +74,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 18865,
+		"ips": 18910,
 		"common": 18
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 676,
+		"ips": 677,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1126,
+		"ips": 1124,
 		"common": 6
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15163,
+		"ips": 15192,
 		"common": 17
 	},
 	{
@@ -165,6 +165,12 @@
 		"name": "cleanmx_phishing",
 		"category": "spam",
 		"ips": 4710,
+		"common": 1
+	},
+	{
+		"name": "cleanmx_viruses",
+		"category": "spam",
+		"ips": 12264,
 		"common": 1
 	},
 	{
@@ -302,7 +308,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 101196,
+		"ips": 101239,
 		"common": 18
 	},
 	{
@@ -314,8 +320,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9565628,
-		"common": 75
+		"ips": 9569378,
+		"common": 76
 	},
 	{
 		"name": "firehol_proxies",
