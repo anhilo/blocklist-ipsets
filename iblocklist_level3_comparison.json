@@ -549,7 +549,7 @@
 		"name": "dm_tor",
 		"category": "anonymizers",
 		"ips": 6887,
-		"common": 524
+		"common": 525
 	},
 	{
 		"name": "dragon_http",
@@ -608,8 +608,8 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 21617,
-		"common": 785
+		"ips": 22101,
+		"common": 793
 	},
 	{
 		"name": "dronebl_unknown",
@@ -866,8 +866,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91351,
-		"common": 2217
+		"ips": 91406,
+		"common": 2221
 	},
 	{
 		"name": "firehol_level1",
@@ -890,8 +890,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569186,
-		"common": 161084
+		"ips": 9569187,
+		"common": 161085
 	},
 	{
 		"name": "firehol_proxies",
@@ -1305,7 +1305,13 @@
 		"name": "iw_spamlist",
 		"category": "spam",
 		"ips": 2606,
-		"common": 161
+		"common": 164
+	},
+	{
+		"name": "iw_wormlist",
+		"category": "spam",
+		"ips": 2,
+		"common": 1
 	},
 	{
 		"name": "jigsaw_attacks",
@@ -1647,7 +1653,7 @@
 		"name": "ransomware_feed",
 		"category": "malware",
 		"ips": 858,
-		"common": 47
+		"common": 55
 	},
 	{
 		"name": "ransomware_locky_c2",
