@@ -110,25 +110,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4833,
+		"ips": 4809,
 		"common": 12
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6693,
+		"ips": 6692,
 		"common": 25
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 28983,
+		"ips": 28989,
 		"common": 157
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 12845,
+		"ips": 12853,
 		"common": 66
 	},
 	{
@@ -236,8 +236,8 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6811,
-		"common": 27
+		"ips": 6817,
+		"common": 28
 	},
 	{
 		"name": "botscout",
@@ -416,7 +416,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6811,
+		"ips": 6803,
 		"common": 28
 	},
 	{
@@ -710,7 +710,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91328,
+		"ips": 91343,
 		"common": 2984
 	},
 	{
@@ -722,8 +722,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 103125,
-		"common": 1609
+		"ips": 103126,
+		"common": 1610
 	},
 	{
 		"name": "firehol_level3",
@@ -1508,8 +1508,8 @@
 	{
 		"name": "snort_ipfilter",
 		"category": "attacks",
-		"ips": 95490,
-		"common": 11338
+		"ips": 95792,
+		"common": 11182
 	},
 	{
 		"name": "socks_proxy",
@@ -1755,6 +1755,12 @@
 		"name": "urlvir",
 		"category": "malware",
 		"ips": 127,
+		"common": 1
+	},
+	{
+		"name": "virbl",
+		"category": "spam",
+		"ips": 11,
 		"common": 1
 	},
 	{

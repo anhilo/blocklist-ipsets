@@ -78,12 +78,6 @@
 		"common": 8
 	},
 	{
-		"name": "bm_tor",
-		"category": "anonymizers",
-		"ips": 6811,
-		"common": 1
-	},
-	{
 		"name": "botscout_30d",
 		"category": "abuse",
 		"ips": 18249,
@@ -213,6 +207,12 @@
 		"name": "darklist_de",
 		"category": "attacks",
 		"ips": 253407,
+		"common": 1
+	},
+	{
+		"name": "dm_tor",
+		"category": "anonymizers",
+		"ips": 6803,
 		"common": 1
 	},
 	{
@@ -458,7 +458,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91328,
+		"ips": 91343,
 		"common": 2
 	},
 	{
@@ -470,7 +470,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 103125,
+		"ips": 103126,
 		"common": 12
 	},
 	{
@@ -794,7 +794,7 @@
 	{
 		"name": "snort_ipfilter",
 		"category": "attacks",
-		"ips": 95490,
+		"ips": 95792,
 		"common": 250
 	},
 	{

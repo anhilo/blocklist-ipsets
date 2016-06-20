@@ -12,16 +12,22 @@
 		"common": 1
 	},
 	{
+		"name": "dronebl_worms_bots",
+		"category": "malware",
+		"ips": 89028,
+		"common": 1
+	},
+	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 103125,
-		"common": 10
+		"ips": 103126,
+		"common": 11
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46097908,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_level1",
@@ -39,6 +45,12 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 45888648,
+		"common": 2
+	},
+	{
+		"name": "sorbs_web",
+		"category": "spam",
+		"ips": 6000734,
 		"common": 1
 	}
 ]
