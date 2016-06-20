@@ -669,25 +669,25 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 768
+		"common": 1536
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 81664,
-		"common": 8704
+		"ips": 82688,
+		"common": 8960
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1771008,
-		"common": 87808
+		"ips": 1768960,
+		"common": 88064
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 390400,
-		"common": 31744
+		"ips": 390912,
+		"common": 32000
 	},
 	{
 		"name": "dshield_top_1000",
@@ -866,13 +866,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 15684,
+		"ips": 15653,
 		"common": 3912
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 283962,
+		"ips": 283956,
 		"common": 55427
 	},
 	{
@@ -885,13 +885,13 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 667005455,
-		"common": 20953
+		"common": 21721
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 101194,
-		"common": 13229
+		"ips": 102210,
+		"common": 13485
 	},
 	{
 		"name": "firehol_level3",
@@ -1448,20 +1448,20 @@
 	{
 		"name": "php_dictionary_1d",
 		"category": "spam",
-		"ips": 94,
-		"common": 4
+		"ips": 50,
+		"common": 1
 	},
 	{
 		"name": "php_dictionary_30d",
 		"category": "spam",
-		"ips": 1109,
+		"ips": 1107,
 		"common": 35
 	},
 	{
 		"name": "php_dictionary_7d",
 		"category": "spam",
-		"ips": 346,
-		"common": 16
+		"ips": 300,
+		"common": 15
 	},
 	{
 		"name": "php_harvesters",
@@ -1833,7 +1833,7 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 33
+		"common": 34
 	},
 	{
 		"name": "sslproxies_1d",
@@ -1850,8 +1850,8 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1662,
-		"common": 185
+		"ips": 1657,
+		"common": 183
 	},
 	{
 		"name": "stopforumspam",
