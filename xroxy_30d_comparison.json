@@ -80,32 +80,44 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 5717,
+		"ips": 5716,
 		"common": 6
 	},
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6892,
+		"ips": 6894,
+		"common": 1
+	},
+	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 54,
 		"common": 1
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1179,
-		"common": 10
+		"ips": 1185,
+		"common": 9
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 18307,
+		"ips": 18323,
 		"common": 106
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5401,
+		"ips": 5411,
 		"common": 40
+	},
+	{
+		"name": "cleanmx_phishing",
+		"category": "spam",
+		"ips": 4627,
+		"common": 1
 	},
 	{
 		"name": "cleanmx_viruses",
@@ -206,7 +218,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 303453,
+		"ips": 303452,
 		"common": 88
 	},
 	{
@@ -242,7 +254,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 16159,
+		"ips": 16163,
 		"common": 53
 	},
 	{
@@ -254,7 +266,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91396,
+		"ips": 91392,
 		"common": 581
 	},
 	{
@@ -272,7 +284,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569063,
+		"ips": 9569077,
 		"common": 109
 	},
 	{
