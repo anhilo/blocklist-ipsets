@@ -92,7 +92,7 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 256,
+		"ips": 257,
 		"common": 82
 	},
 	{
@@ -170,25 +170,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4879,
+		"ips": 4833,
 		"common": 29
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6787,
+		"ips": 6782,
 		"common": 29
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 29043,
+		"ips": 29045,
 		"common": 30
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 12843,
+		"ips": 12835,
 		"common": 29
 	},
 	{
@@ -230,7 +230,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 5746,
+		"ips": 5751,
 		"common": 58
 	},
 	{
@@ -288,21 +288,27 @@
 		"common": 13
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 59,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1192,
+		"ips": 1186,
 		"common": 1
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 18288,
+		"ips": 18293,
 		"common": 2
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5402,
+		"ips": 5403,
 		"common": 1
 	},
 	{
@@ -320,8 +326,8 @@
 	{
 		"name": "cleanmx_phishing",
 		"category": "spam",
-		"ips": 4656,
-		"common": 373
+		"ips": 3201,
+		"common": 276
 	},
 	{
 		"name": "cleanmx_viruses",
@@ -470,19 +476,19 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 86016,
-		"common": 38
+		"ips": 83712,
+		"common": 37
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1766144,
+		"ips": 1765376,
 		"common": 553
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 392704,
+		"ips": 391680,
 		"common": 451
 	},
 	{
@@ -590,7 +596,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 16131,
+		"ips": 16133,
 		"common": 5
 	},
 	{
@@ -608,25 +614,25 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 667005712,
+		"ips": 667005711,
 		"common": 159
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 105648,
-		"common": 51
+		"ips": 103344,
+		"common": 50
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1923150,
+		"ips": 1922382,
 		"common": 643
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569186,
+		"ips": 9569197,
 		"common": 1395
 	},
 	{
@@ -1184,8 +1190,8 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 858,
-		"common": 416
+		"ips": 859,
+		"common": 417
 	},
 	{
 		"name": "ransomware_locky_c2",
