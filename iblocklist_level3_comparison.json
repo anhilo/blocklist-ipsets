@@ -152,8 +152,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 843,
-		"common": 48
+		"ips": 859,
+		"common": 50
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -621,25 +621,25 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 1024
+		"common": 768
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 70144,
+		"ips": 70400,
 		"common": 8720
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1733888,
-		"common": 96592
+		"ips": 1730304,
+		"common": 96336
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 387840,
-		"common": 31056
+		"ips": 387328,
+		"common": 30800
 	},
 	{
 		"name": "dshield_top_1000",
@@ -848,13 +848,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 16426,
-		"common": 1254
+		"ips": 16398,
+		"common": 1253
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 283437,
+		"ips": 283420,
 		"common": 15688
 	},
 	{
@@ -866,8 +866,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 667005708,
-		"common": 4940952
+		"ips": 667005707,
+		"common": 4940696
 	},
 	{
 		"name": "firehol_level2",
@@ -878,8 +878,8 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1891946,
-		"common": 106513
+		"ips": 1888364,
+		"common": 106259
 	},
 	{
 		"name": "firehol_level4",
@@ -1352,8 +1352,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 35479,
-		"common": 1670
+		"ips": 35488,
+		"common": 1651
 	},
 	{
 		"name": "nt_malware_dns",
@@ -1524,22 +1524,28 @@
 		"common": 12
 	},
 	{
+		"name": "php_spammers",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
 		"name": "php_spammers_1d",
 		"category": "spam",
-		"ips": 88,
+		"ips": 50,
 		"common": 1
 	},
 	{
 		"name": "php_spammers_30d",
 		"category": "spam",
-		"ips": 1150,
-		"common": 33
+		"ips": 1142,
+		"common": 34
 	},
 	{
 		"name": "php_spammers_7d",
 		"category": "spam",
-		"ips": 335,
-		"common": 13
+		"ips": 280,
+		"common": 12
 	},
 	{
 		"name": "proxylists",
@@ -1646,7 +1652,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 860,
+		"ips": 859,
 		"common": 47
 	},
 	{
@@ -1940,8 +1946,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 98685,
-		"common": 7169
+		"ips": 98409,
+		"common": 7166
 	},
 	{
 		"name": "threatcrowd",

@@ -32,7 +32,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 843,
+		"ips": 859,
 		"common": 5
 	},
 	{
@@ -360,21 +360,27 @@
 		"common": 46
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 28
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 70144,
+		"ips": 70400,
 		"common": 35
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1733888,
+		"ips": 1730304,
 		"common": 100
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 387840,
+		"ips": 387328,
 		"common": 57
 	},
 	{
@@ -428,13 +434,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 16426,
+		"ips": 16398,
 		"common": 127
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 283437,
+		"ips": 283420,
 		"common": 598
 	},
 	{
@@ -446,8 +452,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 667005708,
-		"common": 78
+		"ips": 667005707,
+		"common": 106
 	},
 	{
 		"name": "firehol_level2",
@@ -458,7 +464,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1891946,
+		"ips": 1888364,
 		"common": 309
 	},
 	{
@@ -722,8 +728,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 35479,
-		"common": 23
+		"ips": 35488,
+		"common": 22
 	},
 	{
 		"name": "nullsecure",
@@ -867,25 +873,25 @@
 		"name": "php_spammers",
 		"category": "spam",
 		"ips": 50,
-		"common": 4
+		"common": 6
 	},
 	{
 		"name": "php_spammers_1d",
 		"category": "spam",
-		"ips": 88,
-		"common": 4
+		"ips": 50,
+		"common": 6
 	},
 	{
 		"name": "php_spammers_30d",
 		"category": "spam",
-		"ips": 1150,
-		"common": 7
+		"ips": 1142,
+		"common": 9
 	},
 	{
 		"name": "php_spammers_7d",
 		"category": "spam",
-		"ips": 335,
-		"common": 5
+		"ips": 280,
+		"common": 7
 	},
 	{
 		"name": "proxylists",
@@ -1184,7 +1190,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 98685,
+		"ips": 98409,
 		"common": 40
 	},
 	{
