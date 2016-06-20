@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 11935,
-		"common": 94
+		"common": 93
 	},
 	{
 		"name": "anonymous",
@@ -111,13 +111,13 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 18755,
-		"common": 12
+		"common": 13
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
 		"ips": 9819,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "blocklist_de_mail",
@@ -333,25 +333,25 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 8
+		"common": 4
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 82944,
+		"ips": 81664,
 		"common": 67
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1776128,
-		"common": 356
+		"ips": 1772800,
+		"common": 354
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 392448,
-		"common": 163
+		"ips": 391936,
+		"common": 161
 	},
 	{
 		"name": "esentire_krnqlwlplttc_com",
@@ -410,26 +410,26 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91702,
+		"ips": 91696,
 		"common": 4
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 667005714,
-		"common": 17
+		"ips": 667005456,
+		"common": 12
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 102364,
-		"common": 79
+		"ips": 101084,
+		"common": 80
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1929122,
-		"common": 853
+		"ips": 1925794,
+		"common": 852
 	},
 	{
 		"name": "firehol_level4",
@@ -440,14 +440,14 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34008,
+		"ips": 34002,
 		"common": 2
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46097908,
-		"common": 206
+		"common": 205
 	},
 	{
 		"name": "gofferje_sip",
@@ -531,7 +531,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 86
+		"common": 85
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -573,7 +573,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 110
+		"common": 109
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -621,7 +621,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 49
+		"common": 48
 	},
 	{
 		"name": "maxmind_proxy_fraud",
@@ -759,13 +759,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 45888648,
-		"common": 182
-	},
-	{
-		"name": "ransomware_feed",
-		"category": "malware",
-		"ips": 861,
-		"common": 1
+		"common": 181
 	},
 	{
 		"name": "sblam",
@@ -796,12 +790,6 @@
 		"category": "spam",
 		"ips": 20924774,
 		"common": 2
-	},
-	{
-		"name": "sorbs_recent_spam",
-		"category": "spam",
-		"ips": 919563,
-		"common": 1
 	},
 	{
 		"name": "sorbs_web",
@@ -933,6 +921,6 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 9756,
-		"common": 83
+		"common": 82
 	}
 ]
