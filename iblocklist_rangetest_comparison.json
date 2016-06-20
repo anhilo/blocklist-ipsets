@@ -230,7 +230,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 6159,
+		"ips": 6054,
 		"common": 121
 	},
 	{
@@ -351,24 +351,24 @@
 		"name": "cleantalk",
 		"category": "abuse",
 		"ips": 3985,
-		"common": 54
+		"common": 53
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 9319,
-		"common": 107
+		"ips": 9321,
+		"common": 106
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 116603,
-		"common": 410
+		"ips": 116602,
+		"common": 409
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 33494,
+		"ips": 33499,
 		"common": 215
 	},
 	{
@@ -405,24 +405,24 @@
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 51
+		"common": 50
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5853,
-		"common": 129
+		"ips": 5847,
+		"common": 128
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 33241,
-		"common": 526
+		"ips": 33240,
+		"common": 525
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 15085,
+		"ips": 15088,
 		"common": 299
 	},
 	{
@@ -644,14 +644,14 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 15526,
-		"common": 134
+		"ips": 15517,
+		"common": 133
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 284183,
-		"common": 1157
+		"ips": 284182,
+		"common": 1156
 	},
 	{
 		"name": "firehol_anonymous",
@@ -668,19 +668,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 101751,
+		"ips": 101754,
 		"common": 1852
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1941546,
-		"common": 10472
+		"ips": 1938478,
+		"common": 10473
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9570391,
+		"ips": 9570286,
 		"common": 3604
 	},
 	{
@@ -1064,7 +1064,7 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 115,
+		"ips": 114,
 		"common": 2
 	},
 	{
@@ -1558,6 +1558,12 @@
 		"category": "attacks",
 		"ips": 17159,
 		"common": 414
+	},
+	{
+		"name": "vxvault",
+		"category": "malware",
+		"ips": 69,
+		"common": 1
 	},
 	{
 		"name": "xroxy_30d",
