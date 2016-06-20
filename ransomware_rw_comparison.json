@@ -26,7 +26,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 5993,
+		"ips": 5990,
 		"common": 1
 	},
 	{
@@ -338,8 +338,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 16311,
-		"common": 1
+		"ips": 16377,
+		"common": 2
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -362,19 +362,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 100214,
+		"ips": 101015,
 		"common": 1
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1909425,
+		"ips": 1909859,
 		"common": 127
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9570159,
+		"ips": 9570157,
 		"common": 16
 	},
 	{
@@ -488,7 +488,7 @@
 	{
 		"name": "iblocklist_onion_router",
 		"category": "anonymizers",
-		"ips": 6751,
+		"ips": 6773,
 		"common": 1
 	},
 	{
@@ -660,6 +660,12 @@
 		"common": 12
 	},
 	{
+		"name": "stopforumspam_1d",
+		"category": "abuse",
+		"ips": 5123,
+		"common": 1
+	},
+	{
 		"name": "stopforumspam_30d",
 		"category": "abuse",
 		"ips": 65836,
@@ -686,7 +692,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 97356,
+		"ips": 97792,
 		"common": 7
 	},
 	{
