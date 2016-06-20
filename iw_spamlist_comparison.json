@@ -86,8 +86,8 @@
 	{
 		"name": "cleanmx_viruses",
 		"category": "spam",
-		"ips": 12168,
-		"common": 2
+		"ips": 11992,
+		"common": 1
 	},
 	{
 		"name": "cleantalk",
@@ -188,13 +188,13 @@
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1767168,
+		"ips": 1766400,
 		"common": 12
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 391168,
+		"ips": 391936,
 		"common": 2
 	},
 	{
@@ -224,13 +224,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91322,
+		"ips": 91326,
 		"common": 15
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 667005709,
+		"ips": 667005454,
 		"common": 5
 	},
 	{
@@ -248,8 +248,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569219,
-		"common": 22
+		"ips": 9569045,
+		"common": 21
 	},
 	{
 		"name": "firehol_proxies",
@@ -594,9 +594,15 @@
 		"common": 397
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1560,
+		"ips": 1557,
 		"common": 9
 	},
 	{
