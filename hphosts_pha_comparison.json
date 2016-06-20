@@ -26,8 +26,8 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 274,
-		"common": 42
+		"ips": 256,
+		"common": 41
 	},
 	{
 		"name": "bambenek_matsnu",
@@ -66,9 +66,21 @@
 		"common": 21
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 18789,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 15114,
+		"common": 1
+	},
+	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 5829,
+		"ips": 5827,
 		"common": 6
 	},
 	{
@@ -164,13 +176,13 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 116400,
+		"ips": 116416,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 33453,
+		"ips": 33464,
 		"common": 1
 	},
 	{
@@ -326,26 +338,26 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 15583,
+		"ips": 15600,
 		"common": 1
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 284040,
+		"ips": 284056,
 		"common": 2
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 667005727,
-		"common": 51
+		"ips": 667005709,
+		"common": 50
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 102106,
-		"common": 12
+		"ips": 102147,
+		"common": 13
 	},
 	{
 		"name": "firehol_level3",
@@ -356,7 +368,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9570111,
+		"ips": 9570109,
 		"common": 130
 	},
 	{
@@ -578,7 +590,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 30187,
+		"ips": 30295,
 		"common": 3
 	},
 	{
