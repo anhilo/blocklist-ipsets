@@ -1,17 +1,5 @@
 [
 	{
-		"name": "blocklist_de",
-		"category": "attacks",
-		"ips": 18977,
-		"common": 1
-	},
-	{
-		"name": "blocklist_de_mail",
-		"category": "attacks",
-		"ips": 15249,
-		"common": 1
-	},
-	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
 		"ips": 89028,
@@ -26,14 +14,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 103354,
-		"common": 15
+		"ips": 103356,
+		"common": 16
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46097908,
-		"common": 4
+		"common": 5
+	},
+	{
+		"name": "gofferje_sip",
+		"category": "attacks",
+		"ips": 1095018,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_level1",
@@ -42,21 +36,21 @@
 		"common": 1
 	},
 	{
-		"name": "jigsaw_attacks",
-		"category": "attacks",
-		"ips": 27109,
-		"common": 1
-	},
-	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 45888648,
-		"common": 4
+		"common": 5
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6000785,
+		"common": 1
+	},
+	{
+		"name": "sp_anti_infringement",
+		"category": "organizations",
+		"ips": 136184527,
 		"common": 1
 	},
 	{
