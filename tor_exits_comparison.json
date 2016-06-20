@@ -68,25 +68,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4799,
+		"ips": 4797,
 		"common": 7
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6722,
+		"ips": 6727,
 		"common": 8
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 29003,
+		"ips": 29002,
 		"common": 10
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 12828,
+		"ips": 12831,
 		"common": 8
 	},
 	{
@@ -123,7 +123,7 @@
 		"name": "bm_tor",
 		"category": "anonymizers",
 		"ips": 6800,
-		"common": 953
+		"common": 952
 	},
 	{
 		"name": "botscout",
@@ -249,7 +249,7 @@
 		"name": "dm_tor",
 		"category": "anonymizers",
 		"ips": 6834,
-		"common": 948
+		"common": 952
 	},
 	{
 		"name": "dragon_http",
@@ -327,7 +327,7 @@
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 22842422,
-		"common": 10
+		"common": 9
 	},
 	{
 		"name": "et_dshield",
@@ -339,13 +339,13 @@
 		"name": "et_spamhaus",
 		"category": "attacks",
 		"ips": 22836736,
-		"common": 6
+		"common": 5
 	},
 	{
 		"name": "et_tor",
 		"category": "anonymizers",
 		"ips": 6870,
-		"common": 891
+		"common": 890
 	},
 	{
 		"name": "firehol_abusers_1d",
@@ -362,14 +362,14 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91376,
-		"common": 1011
+		"ips": 91370,
+		"common": 1008
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 667005711,
-		"common": 9
+		"common": 8
 	},
 	{
 		"name": "firehol_level2",
@@ -381,7 +381,7 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 1927233,
-		"common": 1007
+		"common": 1000
 	},
 	{
 		"name": "firehol_level4",
@@ -423,7 +423,7 @@
 		"name": "iblocklist_ads",
 		"category": "organizations",
 		"ips": 888645,
-		"common": 1
+		"common": 3
 	},
 	{
 		"name": "iblocklist_badpeers",
@@ -435,7 +435,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 109
+		"common": 108
 	},
 	{
 		"name": "iblocklist_cruzit_web_attacks",
@@ -507,7 +507,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762822833,
-		"common": 41
+		"common": 43
 	},
 	{
 		"name": "iblocklist_level2",
@@ -525,7 +525,7 @@
 		"name": "iblocklist_onion_router",
 		"category": "anonymizers",
 		"ips": 6751,
-		"common": 909
+		"common": 907
 	},
 	{
 		"name": "iblocklist_org_blizzard",
@@ -555,7 +555,7 @@
 		"name": "iblocklist_spamhaus_drop",
 		"category": "attacks",
 		"ips": 22829568,
-		"common": 6
+		"common": 5
 	},
 	{
 		"name": "iblocklist_spyware",
@@ -801,7 +801,7 @@
 		"name": "snort_ipfilter",
 		"category": "attacks",
 		"ips": 95792,
-		"common": 986
+		"common": 979
 	},
 	{
 		"name": "socks_proxy_30d",
@@ -819,7 +819,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373408842,
-		"common": 42
+		"common": 41
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -837,13 +837,13 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 918163,
-		"common": 15
+		"common": 14
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6000757,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "sp_anti_infringement",
@@ -861,13 +861,7 @@
 		"name": "spamhaus_drop",
 		"category": "reputation",
 		"ips": 22830592,
-		"common": 6
-	},
-	{
-		"name": "spamhaus_edrop",
-		"category": "reputation",
-		"ips": 797696,
-		"common": 1
+		"common": 5
 	},
 	{
 		"name": "sslbl_aggressive",
@@ -927,7 +921,7 @@
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
 		"ips": 96545,
-		"common": 996
+		"common": 989
 	},
 	{
 		"name": "threatcrowd",
@@ -938,20 +932,20 @@
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1080,
-		"common": 1011
+		"ips": 1084,
+		"common": 1008
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 3006,
-		"common": 1011
+		"ips": 3010,
+		"common": 1008
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1498,
-		"common": 1011
+		"ips": 1502,
+		"common": 1008
 	},
 	{
 		"name": "turris_greylist",
