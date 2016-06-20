@@ -23,7 +23,7 @@
 [ -f 'atlas_scans_2d.ipset' ] && /bin/touch --date=@1466295903 'atlas_scans_2d.ipset'
 [ -f 'atlas_scans_30d.ipset' ] && /bin/touch --date=@1466295903 'atlas_scans_30d.ipset'
 [ -f 'atlas_scans_7d.ipset' ] && /bin/touch --date=@1466295903 'atlas_scans_7d.ipset'
-[ -f 'bambenek_banjori.ipset' ] && /bin/touch --date=@1466438692 'bambenek_banjori.ipset'
+[ -f 'bambenek_banjori.ipset' ] && /bin/touch --date=@1466464031 'bambenek_banjori.ipset'
 [ -f 'bambenek_bebloh.ipset' ] && /bin/touch --date=@1466456563 'bambenek_bebloh.ipset'
 [ -f 'bambenek_c2.ipset' ] && /bin/touch --date=@1466461026 'bambenek_c2.ipset'
 [ -f 'bambenek_cl.ipset' ] && /bin/touch --date=@1453745102 'bambenek_cl.ipset'
