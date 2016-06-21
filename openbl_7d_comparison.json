@@ -68,8 +68,8 @@
 	{
 		"name": "bi_mail_2_30d",
 		"category": "attacks",
-		"ips": 1860,
-		"common": 19
+		"ips": 1887,
+		"common": 20
 	},
 	{
 		"name": "bi_ssh_2_30d",
@@ -92,31 +92,37 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 18837,
+		"ips": 18874,
 		"common": 224
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9756,
-		"common": 4
+		"ips": 9760,
+		"common": 3
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 829,
+		"ips": 836,
 		"common": 2
+	},
+	{
+		"name": "blocklist_de_ftp",
+		"category": "attacks",
+		"ips": 549,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1085,
-		"common": 18
+		"ips": 1081,
+		"common": 19
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15483,
+		"ips": 15503,
 		"common": 23
 	},
 	{
@@ -128,7 +134,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1414,
+		"ips": 1417,
 		"common": 194
 	},
 	{
@@ -350,7 +356,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91323,
+		"ips": 91322,
 		"common": 1
 	},
 	{
@@ -362,13 +368,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 91733,
+		"ips": 93049,
 		"common": 292
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1876333,
+		"ips": 1876640,
 		"common": 712
 	},
 	{
@@ -422,7 +428,7 @@
 	{
 		"name": "iblocklist_cruzit_web_attacks",
 		"category": "attacks",
-		"ips": 5905,
+		"ips": 5909,
 		"common": 1
 	},
 	{
@@ -530,7 +536,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 34392,
+		"ips": 34555,
 		"common": 1
 	},
 	{
@@ -554,8 +560,8 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 110,
-		"common": 110
+		"ips": 107,
+		"common": 107
 	},
 	{
 		"name": "openbl_30d",
