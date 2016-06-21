@@ -146,7 +146,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 4863,
+		"ips": 4853,
 		"common": 250
 	},
 	{
@@ -176,26 +176,26 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 50,
-		"common": 13
+		"ips": 54,
+		"common": 9
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1227,
-		"common": 268
+		"ips": 1242,
+		"common": 270
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 18460,
-		"common": 1749
+		"ips": 18476,
+		"common": 1752
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5452,
-		"common": 1162
+		"ips": 5477,
+		"common": 1166
 	},
 	{
 		"name": "bruteforceblocker",
@@ -224,7 +224,7 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 1115,
+		"ips": 1127,
 		"common": 3
 	},
 	{
@@ -232,6 +232,12 @@
 		"category": "unroutable",
 		"ips": 604493384,
 		"common": 5
+	},
+	{
+		"name": "cleanmx_phishing",
+		"category": "spam",
+		"ips": 4359,
+		"common": 2
 	},
 	{
 		"name": "cleanmx_viruses",
@@ -470,8 +476,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 17058,
-		"common": 10583
+		"ips": 17074,
+		"common": 10585
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -488,7 +494,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 666981632,
+		"ips": 666981633,
 		"common": 805
 	},
 	{
@@ -500,14 +506,14 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1852737,
+		"ips": 1852753,
 		"common": 837
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569286,
-		"common": 2309
+		"ips": 9569288,
+		"common": 2310
 	},
 	{
 		"name": "firehol_proxies",
