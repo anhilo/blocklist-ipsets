@@ -254,7 +254,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 5195,
+		"ips": 5192,
 		"common": 62
 	},
 	{
@@ -543,12 +543,12 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 256
+		"common": 768
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 77312,
+		"ips": 77824,
 		"common": 1800
 	},
 	{
@@ -560,7 +560,7 @@
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 392192,
+		"ips": 391680,
 		"common": 5289
 	},
 	{
@@ -776,8 +776,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 667005697,
-		"common": 498322
+		"ips": 667005695,
+		"common": 498834
 	},
 	{
 		"name": "firehol_level2",
@@ -794,7 +794,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569499,
+		"ips": 9569497,
 		"common": 179651
 	},
 	{
@@ -842,7 +842,7 @@
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
-		"ips": 21311,
+		"ips": 21312,
 		"common": 968
 	},
 	{
@@ -1184,8 +1184,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39160,
-		"common": 241
+		"ips": 39202,
+		"common": 234
 	},
 	{
 		"name": "nt_malware_dns",
@@ -1472,7 +1472,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 859,
+		"ips": 860,
 		"common": 11
 	},
 	{
@@ -1526,26 +1526,26 @@
 	{
 		"name": "ri_web_proxies",
 		"category": "anonymizers",
-		"ips": 142,
-		"common": 2
+		"ips": 146,
+		"common": 3
 	},
 	{
 		"name": "ri_web_proxies_1d",
 		"category": "anonymizers",
-		"ips": 411,
-		"common": 9
+		"ips": 465,
+		"common": 11
 	},
 	{
 		"name": "ri_web_proxies_30d",
 		"category": "anonymizers",
-		"ips": 4218,
-		"common": 84
+		"ips": 4233,
+		"common": 86
 	},
 	{
 		"name": "ri_web_proxies_7d",
 		"category": "anonymizers",
-		"ips": 1474,
-		"common": 25
+		"ips": 1501,
+		"common": 26
 	},
 	{
 		"name": "satellite",
@@ -1760,7 +1760,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 98385,
+		"ips": 98224,
 		"common": 426
 	},
 	{

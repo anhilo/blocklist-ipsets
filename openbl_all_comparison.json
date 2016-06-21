@@ -212,7 +212,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 5195,
+		"ips": 5192,
 		"common": 102
 	},
 	{
@@ -483,13 +483,13 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 92
+		"common": 107
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 77312,
-		"common": 1075
+		"ips": 77824,
+		"common": 1076
 	},
 	{
 		"name": "dshield_30d",
@@ -500,8 +500,8 @@
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 392192,
-		"common": 2159
+		"ips": 391680,
+		"common": 2160
 	},
 	{
 		"name": "dshield_top_1000",
@@ -638,8 +638,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 667005697,
-		"common": 927
+		"ips": 667005695,
+		"common": 942
 	},
 	{
 		"name": "firehol_level2",
@@ -656,8 +656,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569499,
-		"common": 9405
+		"ips": 9569497,
+		"common": 9406
 	},
 	{
 		"name": "firehol_proxies",
@@ -704,8 +704,8 @@
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
-		"ips": 21311,
-		"common": 8617
+		"ips": 21312,
+		"common": 8618
 	},
 	{
 		"name": "hphosts_ats",
@@ -1052,8 +1052,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39160,
-		"common": 52
+		"ips": 39202,
+		"common": 51
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1316,7 +1316,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 859,
+		"ips": 860,
 		"common": 3
 	},
 	{
@@ -1338,21 +1338,27 @@
 		"common": 2
 	},
 	{
+		"name": "ri_web_proxies",
+		"category": "anonymizers",
+		"ips": 146,
+		"common": 1
+	},
+	{
 		"name": "ri_web_proxies_1d",
 		"category": "anonymizers",
-		"ips": 411,
+		"ips": 465,
 		"common": 1
 	},
 	{
 		"name": "ri_web_proxies_30d",
 		"category": "anonymizers",
-		"ips": 4218,
+		"ips": 4233,
 		"common": 14
 	},
 	{
 		"name": "ri_web_proxies_7d",
 		"category": "anonymizers",
-		"ips": 1474,
+		"ips": 1501,
 		"common": 2
 	},
 	{
@@ -1556,7 +1562,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 98385,
+		"ips": 98224,
 		"common": 86
 	},
 	{
