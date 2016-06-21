@@ -32,7 +32,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1020,
+		"ips": 1023,
 		"common": 128
 	},
 	{
@@ -110,7 +110,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 5180,
+		"ips": 5173,
 		"common": 25
 	},
 	{
@@ -178,6 +178,12 @@
 		"category": "spam",
 		"ips": 3400,
 		"common": 3
+	},
+	{
+		"name": "cleanmx_viruses",
+		"category": "spam",
+		"ips": 12891,
+		"common": 1
 	},
 	{
 		"name": "cleantalk",
@@ -434,7 +440,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91223,
+		"ips": 91236,
 		"common": 993
 	},
 	{
@@ -458,13 +464,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9564645,
-		"common": 160
+		"ips": 9569528,
+		"common": 161
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 33852,
+		"ips": 33865,
 		"common": 988
 	},
 	{
@@ -914,25 +920,25 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 1473,
+		"ips": 1482,
 		"common": 47
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2665,
-		"common": 65
+		"ips": 2648,
+		"common": 64
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 9284,
+		"ips": 9292,
 		"common": 74
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 5056,
+		"ips": 5062,
 		"common": 71
 	},
 	{
@@ -986,13 +992,13 @@
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2399,
+		"ips": 2397,
 		"common": 9
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 906,
+		"ips": 908,
 		"common": 4
 	},
 	{
@@ -1077,24 +1083,24 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 33
+		"common": 34
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1622,
-		"common": 671
+		"ips": 1621,
+		"common": 670
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8301,
+		"ips": 8302,
 		"common": 959
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 3485,
+		"ips": 3486,
 		"common": 872
 	},
 	{
