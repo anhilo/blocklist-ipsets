@@ -110,38 +110,38 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 18931,
-		"common": 380
+		"ips": 18980,
+		"common": 384
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9782,
+		"ips": 9784,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 866,
+		"ips": 874,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 554,
+		"ips": 559,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1061,
+		"ips": 1062,
 		"common": 18
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15527,
-		"common": 373
+		"ips": 15555,
+		"common": 377
 	},
 	{
 		"name": "blocklist_de_sip",
@@ -238,6 +238,24 @@
 		"category": "attacks",
 		"ips": 1137,
 		"common": 2
+	},
+	{
+		"name": "chaosreigns_iprep0",
+		"category": "spam",
+		"ips": 5323,
+		"common": 1
+	},
+	{
+		"name": "chaosreigns_iprep100",
+		"category": "spam",
+		"ips": 5323,
+		"common": 1
+	},
+	{
+		"name": "chaosreigns_iprep50",
+		"category": "spam",
+		"ips": 5323,
+		"common": 1
 	},
 	{
 		"name": "ciarmy",
@@ -411,7 +429,7 @@
 		"name": "dronebl_worms_bots",
 		"category": "malware",
 		"ips": 89027,
-		"common": 301
+		"common": 302
 	},
 	{
 		"name": "dshield",
@@ -536,14 +554,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 95919,
-		"common": 399
+		"ips": 97759,
+		"common": 404
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1869518,
-		"common": 98551
+		"ips": 1869791,
+		"common": 98827
 	},
 	{
 		"name": "firehol_level4",
@@ -675,7 +693,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 3412
+		"common": 3417
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -693,7 +711,7 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983648,
-		"common": 426
+		"common": 427
 	},
 	{
 		"name": "iblocklist_hijacked",
@@ -777,13 +795,13 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 593
+		"common": 594
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 7265
+		"common": 7283
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -867,13 +885,13 @@
 		"name": "iw_spamlist",
 		"category": "spam",
 		"ips": 3211,
-		"common": 570
+		"common": 573
 	},
 	{
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 617
+		"common": 622
 	},
 	{
 		"name": "jigsaw_malware",
@@ -885,7 +903,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 51929,
-		"common": 2001
+		"common": 2004
 	},
 	{
 		"name": "malwaredomainlist",
@@ -908,8 +926,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36254,
-		"common": 4471
+		"ips": 36209,
+		"common": 4560
 	},
 	{
 		"name": "nullsecure",
@@ -950,7 +968,7 @@
 	{
 		"name": "openbl_all",
 		"category": "attacks",
-		"ips": 118968,
+		"ips": 118981,
 		"common": 86
 	},
 	{
@@ -1166,7 +1184,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 860,
+		"ips": 861,
 		"common": 9
 	},
 	{
@@ -1233,7 +1251,7 @@
 		"name": "snort_ipfilter",
 		"category": "attacks",
 		"ips": 98685,
-		"common": 96181
+		"common": 96184
 	},
 	{
 		"name": "socks_proxy",
@@ -1269,25 +1287,25 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373389465,
-		"common": 13546
+		"common": 13569
 	},
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
 		"ips": 34416,
-		"common": 2997
+		"common": 3003
 	},
 	{
 		"name": "sorbs_noserver",
 		"category": "spam",
 		"ips": 20924774,
-		"common": 4242
+		"common": 4254
 	},
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 869709,
-		"common": 38231
+		"common": 38249
 	},
 	{
 		"name": "sorbs_smtp",
@@ -1299,7 +1317,7 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6000913,
-		"common": 11690
+		"common": 11703
 	},
 	{
 		"name": "sorbs_zombie",
@@ -1311,7 +1329,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184527,
-		"common": 6210
+		"common": 6216
 	},
 	{
 		"name": "sp_atma",
