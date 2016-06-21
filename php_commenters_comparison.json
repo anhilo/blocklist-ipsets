@@ -182,19 +182,19 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 76032,
+		"ips": 75008,
 		"common": 1
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1718016,
+		"ips": 1718272,
 		"common": 3
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 391680,
+		"ips": 391936,
 		"common": 2
 	},
 	{
@@ -236,7 +236,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91291,
+		"ips": 91293,
 		"common": 23
 	},
 	{
@@ -254,7 +254,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1874872,
+		"ips": 1875138,
 		"common": 19
 	},
 	{
@@ -266,7 +266,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 33956,
+		"ips": 33958,
 		"common": 23
 	},
 	{
@@ -720,6 +720,12 @@
 		"common": 1
 	},
 	{
+		"name": "sslproxies",
+		"category": "anonymizers",
+		"ips": 100,
+		"common": 1
+	},
+	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
 		"ips": 180,
@@ -788,8 +794,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 98842,
-		"common": 14
+		"ips": 98847,
+		"common": 13
 	},
 	{
 		"name": "tor_exits",
