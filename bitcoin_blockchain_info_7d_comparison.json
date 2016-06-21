@@ -8,44 +8,44 @@
 	{
 		"name": "bitcoin_blockchain_info",
 		"category": "organizations",
-		"ips": 203,
-		"common": 203
+		"ips": 205,
+		"common": 205
 	},
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 215,
-		"common": 215
+		"ips": 217,
+		"common": 217
 	},
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
-		"ips": 1314,
-		"common": 510
+		"ips": 1315,
+		"common": 512
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4842,
-		"common": 464
+		"ips": 4848,
+		"common": 468
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6746,
-		"common": 481
+		"ips": 6751,
+		"common": 483
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
 		"ips": 29082,
-		"common": 506
+		"common": 508
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 12756,
-		"common": 505
+		"ips": 12754,
+		"common": 507
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -116,19 +116,19 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 77312,
+		"ips": 77056,
 		"common": 1
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1705728,
+		"ips": 1706496,
 		"common": 7
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 390912,
+		"ips": 391168,
 		"common": 3
 	},
 	{
@@ -136,6 +136,12 @@
 		"category": "anonymizers",
 		"ips": 6790,
 		"common": 17
+	},
+	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 283572,
+		"common": 1
 	},
 	{
 		"name": "firehol_anonymous",
@@ -146,19 +152,19 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 667005185,
-		"common": 1
+		"ips": 667005697,
+		"common": 2
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 97367,
+		"ips": 97112,
 		"common": 1
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1864399,
+		"ips": 1865166,
 		"common": 10
 	},
 	{
@@ -274,6 +280,12 @@
 		"category": "organizations",
 		"ips": 15777552,
 		"common": 2
+	},
+	{
+		"name": "iblocklist_isp_sprint",
+		"category": "organizations",
+		"ips": 6310530,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_isp_twc",
@@ -408,15 +420,33 @@
 		"common": 1
 	},
 	{
+		"name": "spamhaus_edrop",
+		"category": "reputation",
+		"ips": 797696,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam",
+		"category": "abuse",
+		"ips": 170424,
+		"common": 1
+	},
+	{
 		"name": "stopforumspam_180d",
 		"category": "abuse",
 		"ips": 332563,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 668078,
+		"common": 2
+	},
+	{
+		"name": "stopforumspam_90d",
+		"category": "abuse",
+		"ips": 171061,
 		"common": 1
 	},
 	{
