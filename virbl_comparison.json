@@ -1,15 +1,33 @@
 [
 	{
+		"name": "dshield_30d",
+		"category": "attacks",
+		"ips": 1702912,
+		"common": 1
+	},
+	{
+		"name": "dshield_7d",
+		"category": "attacks",
+		"ips": 390144,
+		"common": 1
+	},
+	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 95865,
-		"common": 16
+		"ips": 95807,
+		"common": 20
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 1862326,
+		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46097680,
-		"common": 4
+		"common": 5
 	},
 	{
 		"name": "gofferje_sip",
@@ -27,7 +45,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_level1",
@@ -57,7 +75,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 45888648,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "sorbs_recent_spam",
