@@ -104,7 +104,7 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 240,
+		"ips": 238,
 		"common": 28
 	},
 	{
@@ -140,7 +140,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 961,
+		"ips": 957,
 		"common": 50
 	},
 	{
@@ -188,13 +188,13 @@
 	{
 		"name": "bitcoin_blockchain_info",
 		"category": "organizations",
-		"ips": 193,
+		"ips": 195,
 		"common": 28
 	},
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 245,
+		"ips": 247,
 		"common": 36
 	},
 	{
@@ -206,31 +206,31 @@
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 504,
+		"ips": 506,
 		"common": 52
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4820,
+		"ips": 4825,
 		"common": 379
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6773,
+		"ips": 6772,
 		"common": 419
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 29105,
+		"ips": 29102,
 		"common": 962
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 12757,
+		"ips": 12753,
 		"common": 536
 	},
 	{
@@ -410,8 +410,8 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 1021,
-		"common": 143
+		"ips": 1063,
+		"common": 152
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -428,8 +428,8 @@
 	{
 		"name": "cleanmx_viruses",
 		"category": "spam",
-		"ips": 7916,
-		"common": 570
+		"ips": 12336,
+		"common": 874
 	},
 	{
 		"name": "cleantalk",
@@ -615,24 +615,24 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 768
+		"common": 512
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 76032,
+		"ips": 74496,
 		"common": 9232
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1715200,
-		"common": 96080
+		"ips": 1714432,
+		"common": 95824
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 391168,
+		"ips": 390144,
 		"common": 31312
 	},
 	{
@@ -842,14 +842,14 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 17061,
-		"common": 1323
+		"ips": 17095,
+		"common": 1324
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 283421,
-		"common": 15681
+		"ips": 283418,
+		"common": 15680
 	},
 	{
 		"name": "firehol_anonymous",
@@ -860,26 +860,26 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 667005694,
-		"common": 4940688
+		"ips": 667005692,
+		"common": 4940432
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 95745,
+		"ips": 94208,
 		"common": 11756
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1872433,
-		"common": 106060
+		"ips": 1871700,
+		"common": 105811
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9564110,
-		"common": 160739
+		"ips": 9568483,
+		"common": 161040
 	},
 	{
 		"name": "firehol_proxies",
@@ -1482,16 +1482,28 @@
 		"common": 14
 	},
 	{
+		"name": "php_dictionary",
+		"category": "spam",
+		"ips": 50,
+		"common": 2
+	},
+	{
+		"name": "php_dictionary_1d",
+		"category": "spam",
+		"ips": 94,
+		"common": 2
+	},
+	{
 		"name": "php_dictionary_30d",
 		"category": "spam",
-		"ips": 1107,
-		"common": 35
+		"ips": 1099,
+		"common": 34
 	},
 	{
 		"name": "php_dictionary_7d",
 		"category": "spam",
-		"ips": 300,
-		"common": 6
+		"ips": 296,
+		"common": 7
 	},
 	{
 		"name": "php_harvesters",
