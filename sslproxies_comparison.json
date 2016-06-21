@@ -176,7 +176,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9564293,
+		"ips": 9564295,
 		"common": 59
 	},
 	{
@@ -220,6 +220,12 @@
 		"category": "reputation",
 		"ips": 139023007,
 		"common": 4
+	},
+	{
+		"name": "iw_spamlist",
+		"category": "spam",
+		"ips": 3081,
+		"common": 1
 	},
 	{
 		"name": "jigsaw_malware",
@@ -576,9 +582,15 @@
 		"common": 66
 	},
 	{
+		"name": "xroxy",
+		"category": "anonymizers",
+		"ips": 65,
+		"common": 2
+	},
+	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 121,
+		"ips": 126,
 		"common": 5
 	},
 	{
@@ -590,7 +602,7 @@
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 263,
+		"ips": 264,
 		"common": 7
 	}
 ]
