@@ -68,7 +68,7 @@
 	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
-		"ips": 8023,
+		"ips": 8089,
 		"common": 36
 	},
 	{
@@ -80,13 +80,13 @@
 	{
 		"name": "bi_ftp_2_30d",
 		"category": "attacks",
-		"ips": 193,
+		"ips": 192,
 		"common": 4
 	},
 	{
 		"name": "bi_http_2_30d",
 		"category": "attacks",
-		"ips": 113,
+		"ips": 110,
 		"common": 4
 	},
 	{
@@ -128,7 +128,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 5183,
+		"ips": 5180,
 		"common": 6
 	},
 	{
@@ -416,7 +416,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9564633,
+		"ips": 9564631,
 		"common": 27
 	},
 	{
@@ -828,6 +828,12 @@
 		"common": 183
 	},
 	{
+		"name": "ransomware_feed",
+		"category": "malware",
+		"ips": 860,
+		"common": 1
+	},
+	{
 		"name": "sblam",
 		"category": "abuse",
 		"ips": 6921,
@@ -842,7 +848,7 @@
 	{
 		"name": "snort_ipfilter",
 		"category": "attacks",
-		"ips": 98685,
+		"ips": 99241,
 		"common": 2
 	},
 	{
