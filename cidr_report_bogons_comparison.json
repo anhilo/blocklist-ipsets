@@ -56,25 +56,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4776,
+		"ips": 4781,
 		"common": 4
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6782,
+		"ips": 6784,
 		"common": 4
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 29075,
+		"ips": 29079,
 		"common": 4
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 12756,
+		"ips": 12755,
 		"common": 4
 	},
 	{
@@ -321,18 +321,18 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 667005437,
-		"common": 603661352
+		"common": 603648040
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 1875160,
-		"common": 2
+		"common": 4
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569105,
+		"ips": 9569101,
 		"common": 606419
 	},
 	{
@@ -345,7 +345,7 @@
 		"name": "fullbogons",
 		"category": "unroutable",
 		"ips": 643396392,
-		"common": 603661096
+		"common": 603647784
 	},
 	{
 		"name": "gpf_comics",
@@ -447,13 +447,13 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 567586723
+		"common": 567578531
 	},
 	{
 		"name": "iblocklist_cidr_report_bogons",
 		"category": "unroutable",
 		"ips": 604500552,
-		"common": 604500552
+		"common": 604487240
 	},
 	{
 		"name": "iblocklist_cruzit_web_attacks",
@@ -591,7 +591,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 51929,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "malwaredomainlist",
@@ -654,6 +654,12 @@
 		"common": 1
 	},
 	{
+		"name": "snort_ipfilter",
+		"category": "attacks",
+		"ips": 98685,
+		"common": 2
+	},
+	{
 		"name": "sorbs_anonymizers",
 		"category": "spam",
 		"ips": 602756,
@@ -669,13 +675,13 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 868652,
-		"common": 5
+		"common": 13
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6000896,
-		"common": 1563
+		"common": 1569
 	},
 	{
 		"name": "sp_anti_infringement",
@@ -754,6 +760,12 @@
 		"category": "attacks",
 		"ips": 8620,
 		"common": 13
+	},
+	{
+		"name": "talosintel_ipfilter",
+		"category": "attacks",
+		"ips": 98461,
+		"common": 2
 	},
 	{
 		"name": "threatcrowd",
