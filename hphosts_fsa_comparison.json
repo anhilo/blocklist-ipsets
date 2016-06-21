@@ -86,8 +86,8 @@
 	{
 		"name": "bambenek_ramnit",
 		"category": "malware",
-		"ips": 7,
-		"common": 3
+		"ips": 8,
+		"common": 4
 	},
 	{
 		"name": "bambenek_simda",
@@ -380,7 +380,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 23550,
+		"ips": 23545,
 		"common": 1
 	},
 	{
@@ -876,10 +876,22 @@
 		"common": 11
 	},
 	{
+		"name": "packetmail_carisirt",
+		"category": "reputation",
+		"ips": 469,
+		"common": 1
+	},
+	{
 		"name": "packetmail_emerging_ips",
 		"category": "reputation",
 		"ips": 58,
 		"common": 7
+	},
+	{
+		"name": "packetmail_ramnode",
+		"category": "reputation",
+		"ips": 995,
+		"common": 1
 	},
 	{
 		"name": "palevo",

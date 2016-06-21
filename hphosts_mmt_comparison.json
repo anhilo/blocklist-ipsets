@@ -56,7 +56,7 @@
 	{
 		"name": "bambenek_ramnit",
 		"category": "malware",
-		"ips": 7,
+		"ips": 8,
 		"common": 2
 	},
 	{
@@ -492,10 +492,22 @@
 		"common": 2
 	},
 	{
+		"name": "packetmail_carisirt",
+		"category": "reputation",
+		"ips": 469,
+		"common": 1
+	},
+	{
 		"name": "packetmail_emerging_ips",
 		"category": "reputation",
 		"ips": 58,
 		"common": 3
+	},
+	{
+		"name": "packetmail_ramnode",
+		"category": "reputation",
+		"ips": 995,
+		"common": 1
 	},
 	{
 		"name": "pushing_inertia_blocklist",
