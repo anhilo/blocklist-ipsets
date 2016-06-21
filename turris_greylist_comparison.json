@@ -96,12 +96,6 @@
 		"common": 407
 	},
 	{
-		"name": "bi_bruteforce_2_30d",
-		"category": "attacks",
-		"ips": 3,
-		"common": 1
-	},
-	{
 		"name": "bi_ftp_2_30d",
 		"category": "attacks",
 		"ips": 192,
@@ -140,13 +134,13 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 29101,
+		"ips": 29105,
 		"common": 3
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 12724,
+		"ips": 12729,
 		"common": 2
 	},
 	{
@@ -206,7 +200,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 5379,
+		"ips": 5377,
 		"common": 82
 	},
 	{
@@ -548,7 +542,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569840,
+		"ips": 9569834,
 		"common": 231
 	},
 	{
@@ -772,6 +766,12 @@
 		"category": "abuse",
 		"ips": 200,
 		"common": 7
+	},
+	{
+		"name": "iw_spamlist",
+		"category": "spam",
+		"ips": 3225,
+		"common": 1
 	},
 	{
 		"name": "jigsaw_attacks",
