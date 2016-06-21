@@ -200,25 +200,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4882,
-		"common": 221
+		"ips": 4873,
+		"common": 219
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6692,
+		"ips": 6699,
 		"common": 238
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 29090,
+		"ips": 29089,
 		"common": 448
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 12718,
+		"ips": 12713,
 		"common": 289
 	},
 	{
@@ -278,7 +278,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 5519,
+		"ips": 5516,
 		"common": 88
 	},
 	{
@@ -338,19 +338,19 @@
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1251,
-		"common": 39
+		"ips": 1260,
+		"common": 38
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 18519,
-		"common": 545
+		"ips": 18511,
+		"common": 544
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5491,
+		"ips": 5497,
 		"common": 157
 	},
 	{
@@ -788,14 +788,14 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 17045,
+		"ips": 17086,
 		"common": 531
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 283348,
-		"common": 5009
+		"ips": 283350,
+		"common": 5010
 	},
 	{
 		"name": "firehol_anonymous",
@@ -824,8 +824,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9570569,
-		"common": 920885
+		"ips": 9570557,
+		"common": 920884
 	},
 	{
 		"name": "firehol_proxies",
@@ -1328,8 +1328,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38076,
-		"common": 376
+		"ips": 38046,
+		"common": 384
 	},
 	{
 		"name": "nt_malware_dns",
@@ -1488,6 +1488,18 @@
 		"common": 13
 	},
 	{
+		"name": "php_spammers",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
+		"name": "php_spammers_1d",
+		"category": "spam",
+		"ips": 92,
+		"common": 1
+	},
+	{
 		"name": "php_spammers_30d",
 		"category": "spam",
 		"ips": 1142,
@@ -1496,8 +1508,8 @@
 	{
 		"name": "php_spammers_7d",
 		"category": "spam",
-		"ips": 280,
-		"common": 10
+		"ips": 318,
+		"common": 11
 	},
 	{
 		"name": "proxylists",
