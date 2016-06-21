@@ -128,7 +128,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 4849,
+		"ips": 4854,
 		"common": 2
 	},
 	{
@@ -308,7 +308,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 17048,
+		"ips": 17042,
 		"common": 1
 	},
 	{
@@ -338,7 +338,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569288,
+		"ips": 9569297,
 		"common": 10
 	},
 	{
@@ -362,7 +362,7 @@
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
-		"ips": 21312,
+		"ips": 21313,
 		"common": 6
 	},
 	{
@@ -676,5 +676,11 @@
 		"category": "reputation",
 		"ips": 9756,
 		"common": 82
+	},
+	{
+		"name": "voipbl",
+		"category": "attacks",
+		"ips": 17187,
+		"common": 1
 	}
 ]
