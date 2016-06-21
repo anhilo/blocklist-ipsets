@@ -1,5 +1,23 @@
 [
 	{
+		"name": "bbcan177_ms1",
+		"category": "malware",
+		"ips": 5266901,
+		"common": 1
+	},
+	{
+		"name": "blueliv_crimeserver_online",
+		"category": "attacks",
+		"ips": 54195,
+		"common": 1
+	},
+	{
+		"name": "cleanmx_viruses",
+		"category": "spam",
+		"ips": 13530,
+		"common": 1
+	},
+	{
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 1679872,
@@ -14,7 +32,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 101166,
+		"ips": 101169,
 		"common": 19
 	},
 	{
@@ -24,10 +42,28 @@
 		"common": 1
 	},
 	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9570517,
+		"common": 1
+	},
+	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 46098846,
-		"common": 3
+		"ips": 46098865,
+		"common": 4
+	},
+	{
+		"name": "hphosts_emd",
+		"category": "malware",
+		"ips": 18536,
+		"common": 1
+	},
+	{
+		"name": "hphosts_fsa",
+		"category": "reputation",
+		"ips": 9211,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -58,5 +94,11 @@
 		"category": "reputation",
 		"ips": 45889672,
 		"common": 3
+	},
+	{
+		"name": "stopforumspam_365d",
+		"category": "abuse",
+		"ips": 668078,
+		"common": 1
 	}
 ]
