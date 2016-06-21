@@ -422,7 +422,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91275,
+		"ips": 91267,
 		"common": 5
 	},
 	{
@@ -452,7 +452,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 33878,
+		"ips": 33870,
 		"common": 3
 	},
 	{
@@ -786,27 +786,21 @@
 		"common": 1
 	},
 	{
-		"name": "proxyrss",
-		"category": "anonymizers",
-		"ips": 1258,
-		"common": 1
-	},
-	{
 		"name": "proxyrss_1d",
 		"category": "anonymizers",
-		"ips": 2408,
+		"ips": 2458,
 		"common": 1
 	},
 	{
 		"name": "proxyrss_30d",
 		"category": "anonymizers",
-		"ips": 8920,
+		"ips": 8949,
 		"common": 1
 	},
 	{
 		"name": "proxyrss_7d",
 		"category": "anonymizers",
-		"ips": 4724,
+		"ips": 4776,
 		"common": 1
 	},
 	{
@@ -844,6 +838,12 @@
 		"category": "reputation",
 		"ips": 45889672,
 		"common": 182
+	},
+	{
+		"name": "ransomware_feed",
+		"category": "malware",
+		"ips": 861,
+		"common": 1
 	},
 	{
 		"name": "sblam",
