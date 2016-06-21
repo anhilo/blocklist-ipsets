@@ -92,7 +92,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 4939,
+		"ips": 4860,
 		"common": 1
 	},
 	{
@@ -146,8 +146,8 @@
 	{
 		"name": "cleanmx_phishing",
 		"category": "spam",
-		"ips": 4943,
-		"common": 21
+		"ips": 2730,
+		"common": 11
 	},
 	{
 		"name": "cleanmx_viruses",
@@ -162,16 +162,28 @@
 		"common": 16
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
+		"name": "dshield_1d",
+		"category": "attacks",
+		"ips": 77568,
+		"common": 1
+	},
+	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1694976,
-		"common": 8
+		"ips": 1695488,
+		"common": 9
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 390400,
-		"common": 8
+		"ips": 391168,
+		"common": 9
 	},
 	{
 		"name": "dshield_top_1000",
@@ -230,13 +242,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1851507,
-		"common": 12
+		"ips": 1852019,
+		"common": 13
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569306,
+		"ips": 9569227,
 		"common": 45
 	},
 	{

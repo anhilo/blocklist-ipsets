@@ -50,7 +50,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 4939,
+		"ips": 4860,
 		"common": 1
 	},
 	{
@@ -86,19 +86,19 @@
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1224,
+		"ips": 1227,
 		"common": 1
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 18461,
+		"ips": 18460,
 		"common": 1
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5451,
+		"ips": 5452,
 		"common": 1
 	},
 	{
@@ -110,8 +110,8 @@
 	{
 		"name": "cleanmx_phishing",
 		"category": "spam",
-		"ips": 4943,
-		"common": 25
+		"ips": 2730,
+		"common": 13
 	},
 	{
 		"name": "cleanmx_viruses",
@@ -144,16 +144,28 @@
 		"common": 1
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 2
+	},
+	{
+		"name": "dshield_1d",
+		"category": "attacks",
+		"ips": 77568,
+		"common": 2
+	},
+	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1694976,
-		"common": 12
+		"ips": 1695488,
+		"common": 14
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 390400,
-		"common": 12
+		"ips": 391168,
+		"common": 14
 	},
 	{
 		"name": "dyndns_ponmocup",
@@ -170,25 +182,25 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 17088,
+		"ips": 17117,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 666981886,
-		"common": 19
+		"common": 21
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1851507,
-		"common": 15
+		"ips": 1852019,
+		"common": 17
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569306,
+		"ips": 9569227,
 		"common": 78
 	},
 	{
@@ -416,7 +428,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 99329,
+		"ips": 99013,
 		"common": 2
 	},
 	{
