@@ -302,7 +302,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 5525,
+		"ips": 5523,
 		"common": 266
 	},
 	{
@@ -560,7 +560,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 240886,
+		"ips": 240885,
 		"common": 7451
 	},
 	{
@@ -606,21 +606,27 @@
 		"common": 595
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 256
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 79104,
+		"ips": 78592,
 		"common": 4096
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1685504,
+		"ips": 1683968,
 		"common": 72192
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 388096,
+		"ips": 388352,
 		"common": 21248
 	},
 	{
@@ -830,8 +836,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 666981632,
-		"common": 596314406
+		"ips": 666981885,
+		"common": 596314661
 	},
 	{
 		"name": "firehol_level2",
@@ -842,7 +848,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1843640,
+		"ips": 1842103,
 		"common": 76680
 	},
 	{
@@ -1202,8 +1208,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38235,
-		"common": 1578
+		"ips": 38189,
+		"common": 1569
 	},
 	{
 		"name": "nt_malware_http",
@@ -1484,7 +1490,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 862,
+		"ips": 859,
 		"common": 70
 	},
 	{
@@ -1688,7 +1694,7 @@
 	{
 		"name": "sslbl",
 		"category": "malware",
-		"ips": 85,
+		"ips": 84,
 		"common": 6
 	},
 	{
@@ -1772,8 +1778,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 99205,
-		"common": 3423
+		"ips": 98997,
+		"common": 3419
 	},
 	{
 		"name": "threatcrowd",
