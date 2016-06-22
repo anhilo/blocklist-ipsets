@@ -56,7 +56,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 21616,
+		"ips": 21625,
 		"common": 88
 	},
 	{
@@ -74,13 +74,13 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 116277,
+		"ips": 116274,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 98921,
+		"ips": 98918,
 		"common": 1
 	},
 	{
@@ -146,20 +146,20 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91242,
+		"ips": 91238,
 		"common": 3
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 102461,
+		"ips": 102471,
 		"common": 88
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 1835488,
-		"common": 41
+		"common": 42
 	},
 	{
 		"name": "firehol_level4",
@@ -177,7 +177,7 @@
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095021,
-		"common": 36
+		"common": 35
 	},
 	{
 		"name": "graphiclineweb",
@@ -270,6 +270,12 @@
 		"common": 4
 	},
 	{
+		"name": "lashback_ubl",
+		"category": "spam",
+		"ips": 209102,
+		"common": 1
+	},
+	{
 		"name": "openbl_all",
 		"category": "attacks",
 		"ips": 119000,
@@ -300,16 +306,28 @@
 		"common": 2
 	},
 	{
+		"name": "snort_ipfilter",
+		"category": "attacks",
+		"ips": 99241,
+		"common": 1
+	},
+	{
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373388938,
 		"common": 2
 	},
 	{
+		"name": "sorbs_recent_spam",
+		"category": "spam",
+		"ips": 898230,
+		"common": 1
+	},
+	{
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6004912,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "sp_anti_infringement",
@@ -366,6 +384,12 @@
 		"common": 1
 	},
 	{
+		"name": "talosintel_ipfilter",
+		"category": "attacks",
+		"ips": 100127,
+		"common": 1
+	},
+	{
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 9756,
@@ -375,7 +399,7 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 17187,
-		"common": 55
+		"common": 54
 	},
 	{
 		"name": "yoyo_adservers",
