@@ -96,21 +96,27 @@
 		"common": 279
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 54,
+		"common": 2
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1161,
+		"ips": 1166,
 		"common": 96
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 18383,
+		"ips": 18379,
 		"common": 300
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5537,
+		"ips": 5535,
 		"common": 235
 	},
 	{
@@ -134,43 +140,43 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 4553,
-		"common": 52
+		"ips": 4529,
+		"common": 47
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 10615,
+		"ips": 10575,
 		"common": 65
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 115784,
+		"ips": 115768,
 		"common": 115
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 33837,
+		"ips": 33844,
 		"common": 84
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 98425,
+		"ips": 98407,
 		"common": 18
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 52
+		"common": 47
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5800,
+		"ips": 5810,
 		"common": 72
 	},
 	{
@@ -182,7 +188,7 @@
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 14863,
+		"ips": 14870,
 		"common": 99
 	},
 	{
@@ -296,14 +302,14 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 16924,
+		"ips": 16897,
 		"common": 198
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 283173,
-		"common": 324
+		"ips": 282779,
+		"common": 323
 	},
 	{
 		"name": "firehol_anonymous",
@@ -332,7 +338,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9570539,
+		"ips": 9570538,
 		"common": 298
 	},
 	{
@@ -362,7 +368,7 @@
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
-		"ips": 21318,
+		"ips": 21321,
 		"common": 1
 	},
 	{
@@ -591,25 +597,25 @@
 		"name": "php_commenters",
 		"category": "spam",
 		"ips": 50,
-		"common": 13
+		"common": 7
 	},
 	{
 		"name": "php_commenters_1d",
 		"category": "spam",
-		"ips": 50,
-		"common": 13
+		"ips": 87,
+		"common": 19
 	},
 	{
 		"name": "php_commenters_30d",
 		"category": "spam",
-		"ips": 679,
-		"common": 175
+		"ips": 676,
+		"common": 172
 	},
 	{
 		"name": "php_commenters_7d",
 		"category": "spam",
-		"ips": 247,
-		"common": 71
+		"ips": 238,
+		"common": 69
 	},
 	{
 		"name": "php_dictionary",
@@ -720,15 +726,9 @@
 		"common": 277
 	},
 	{
-		"name": "socks_proxy",
-		"category": "anonymizers",
-		"ips": 80,
-		"common": 1
-	},
-	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1581,
+		"ips": 1576,
 		"common": 4
 	},
 	{
@@ -794,8 +794,8 @@
 	{
 		"name": "stopforumspam",
 		"category": "abuse",
-		"ips": 170097,
-		"common": 322
+		"ips": 170037,
+		"common": 321
 	},
 	{
 		"name": "stopforumspam_180d",
