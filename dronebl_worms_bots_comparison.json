@@ -2,7 +2,7 @@
 	{
 		"name": "alienvault_reputation",
 		"category": "reputation",
-		"ips": 12018,
+		"ips": 12103,
 		"common": 22
 	},
 	{
@@ -32,8 +32,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1089,
-		"common": 8
+		"ips": 1061,
+		"common": 9
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -110,7 +110,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 5450,
+		"ips": 5445,
 		"common": 3
 	},
 	{
@@ -458,7 +458,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9565686,
+		"ips": 9565679,
 		"common": 176
 	},
 	{
@@ -734,8 +734,8 @@
 	{
 		"name": "iw_spamlist",
 		"category": "spam",
-		"ips": 5648,
-		"common": 4
+		"ips": 5659,
+		"common": 3
 	},
 	{
 		"name": "jigsaw_attacks",
@@ -1296,9 +1296,21 @@
 		"common": 7
 	},
 	{
+		"name": "xroxy",
+		"category": "anonymizers",
+		"ips": 59,
+		"common": 1
+	},
+	{
+		"name": "xroxy_1d",
+		"category": "anonymizers",
+		"ips": 124,
+		"common": 1
+	},
+	{
 		"name": "xroxy_30d",
 		"category": "anonymizers",
-		"ips": 586,
+		"ips": 585,
 		"common": 5
 	},
 	{
