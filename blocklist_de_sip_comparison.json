@@ -9,7 +9,7 @@
 		"name": "anonymous",
 		"category": "geolocation",
 		"ips": 50776,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "atlas_scans_30d",
@@ -27,19 +27,13 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 8089,
-		"common": 9
+		"common": 8
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 2750,
-		"common": 9
-	},
-	{
-		"name": "bi_mail_2_30d",
-		"category": "attacks",
-		"ips": 1908,
-		"common": 1
+		"common": 8
 	},
 	{
 		"name": "bi_ssh_2_30d",
@@ -56,8 +50,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 24140,
-		"common": 83
+		"ips": 24040,
+		"common": 79
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -152,8 +146,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91137,
-		"common": 2
+		"ips": 91135,
+		"common": 1
 	},
 	{
 		"name": "firehol_level1",
@@ -164,8 +158,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 98582,
-		"common": 83
+		"ips": 98484,
+		"common": 79
 	},
 	{
 		"name": "firehol_level3",
@@ -183,13 +177,13 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46098865,
-		"common": 18
+		"common": 17
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095022,
-		"common": 33
+		"common": 32
 	},
 	{
 		"name": "graphiclineweb",
@@ -202,12 +196,6 @@
 		"category": "attacks",
 		"ips": 21318,
 		"common": 7
-	},
-	{
-		"name": "iblocklist_badpeers",
-		"category": "reputation",
-		"ips": 1568848,
-		"common": 1
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -249,7 +237,7 @@
 		"name": "iblocklist_rangetest",
 		"category": "reputation",
 		"ips": 4346058,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "iblocklist_spyware",
@@ -327,7 +315,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 45889672,
-		"common": 18
+		"common": 17
 	},
 	{
 		"name": "sblam",
@@ -423,6 +411,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 17187,
-		"common": 52
+		"common": 50
 	}
 ]
