@@ -9,7 +9,7 @@
 		"name": "anonymous",
 		"category": "geolocation",
 		"ips": 50776,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "atlas_scans_30d",
@@ -56,8 +56,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 23885,
-		"common": 84
+		"ips": 23969,
+		"common": 82
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -74,13 +74,13 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 116146,
+		"ips": 116122,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 98764,
+		"ips": 98744,
 		"common": 1
 	},
 	{
@@ -146,14 +146,14 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 283445,
+		"ips": 283426,
 		"common": 1
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91108,
-		"common": 3
+		"ips": 91110,
+		"common": 2
 	},
 	{
 		"name": "firehol_level1",
@@ -164,8 +164,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 100899,
-		"common": 84
+		"ips": 100982,
+		"common": 82
 	},
 	{
 		"name": "firehol_level3",
@@ -183,7 +183,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46098865,
-		"common": 20
+		"common": 19
 	},
 	{
 		"name": "gofferje_sip",
@@ -207,7 +207,7 @@
 		"name": "iblocklist_badpeers",
 		"category": "reputation",
 		"ips": 1568848,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -256,12 +256,6 @@
 		"category": "reputation",
 		"ips": 339021,
 		"common": 3
-	},
-	{
-		"name": "iblocklist_yoyo_adservers",
-		"category": "organizations",
-		"ips": 12402,
-		"common": 1
 	},
 	{
 		"name": "jigsaw_attacks",
@@ -333,7 +327,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 45889672,
-		"common": 20
+		"common": 19
 	},
 	{
 		"name": "sblam",
@@ -430,11 +424,5 @@
 		"category": "attacks",
 		"ips": 17187,
 		"common": 52
-	},
-	{
-		"name": "yoyo_adservers",
-		"category": "organizations",
-		"ips": 13086,
-		"common": 1
 	}
 ]
