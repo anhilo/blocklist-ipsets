@@ -81,7 +81,7 @@
 		"name": "bbcan177_ms1",
 		"category": "malware",
 		"ips": 5266930,
-		"common": 96
+		"common": 99
 	},
 	{
 		"name": "bbcan177_ms3",
@@ -152,7 +152,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 24001,
+		"ips": 24034,
 		"common": 7
 	},
 	{
@@ -170,13 +170,13 @@
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 536,
+		"ips": 537,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 20503,
+		"ips": 20529,
 		"common": 1
 	},
 	{
@@ -188,13 +188,13 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1418,
+		"ips": 1422,
 		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 5388,
+		"ips": 5389,
 		"common": 74
 	},
 	{
@@ -207,25 +207,25 @@
 		"name": "blueliv_crimeserver_last_1d",
 		"category": "attacks",
 		"ips": 1275,
-		"common": 369
+		"common": 368
 	},
 	{
 		"name": "blueliv_crimeserver_last_2d",
 		"category": "attacks",
 		"ips": 1605,
-		"common": 394
+		"common": 393
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
 		"category": "attacks",
 		"ips": 25139,
-		"common": 1892
+		"common": 1893
 	},
 	{
 		"name": "blueliv_crimeserver_last_7d",
 		"category": "attacks",
 		"ips": 8253,
-		"common": 947
+		"common": 946
 	},
 	{
 		"name": "blueliv_crimeserver_online",
@@ -440,7 +440,7 @@
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1652992,
+		"ips": 1650688,
 		"common": 296
 	},
 	{
@@ -530,7 +530,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91033,
+		"ips": 91037,
 		"common": 5
 	},
 	{
@@ -542,38 +542,38 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 95884,
+		"ips": 95917,
 		"common": 38
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1815216,
-		"common": 372
+		"ips": 1812911,
+		"common": 373
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9570532,
-		"common": 13721
+		"ips": 9570494,
+		"common": 13680
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 33673,
+		"ips": 33677,
 		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46098865,
-		"common": 4585
+		"common": 4562
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095022,
-		"common": 281
+		"common": 280
 	},
 	{
 		"name": "gpf_comics",
@@ -609,7 +609,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 18536,
-		"common": 994
+		"common": 995
 	},
 	{
 		"name": "hphosts_exp",
@@ -657,7 +657,7 @@
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 11848,
-		"common": 1158
+		"common": 1159
 	},
 	{
 		"name": "hphosts_wrz",
@@ -687,7 +687,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 1895
+		"common": 1885
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -801,7 +801,7 @@
 		"name": "iblocklist_rangetest",
 		"category": "reputation",
 		"ips": 4346058,
-		"common": 272
+		"common": 273
 	},
 	{
 		"name": "iblocklist_spamhaus_drop",
@@ -902,8 +902,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38473,
-		"common": 11
+		"ips": 38443,
+		"common": 10
 	},
 	{
 		"name": "nullsecure",
@@ -987,13 +987,13 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 45889672,
-		"common": 2888
+		"common": 2864
 	},
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
 		"ips": 866,
-		"common": 66
+		"common": 67
 	},
 	{
 		"name": "ransomware_rw",
@@ -1016,7 +1016,7 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8307,
+		"ips": 8311,
 		"common": 1
 	},
 	{
@@ -1059,7 +1059,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136181974,
-		"common": 241
+		"common": 240
 	},
 	{
 		"name": "sp_atma",
@@ -1125,7 +1125,7 @@
 		"name": "stopforumspam_toxic",
 		"category": "abuse",
 		"ips": 552279,
-		"common": 18
+		"common": 17
 	},
 	{
 		"name": "taichung",
@@ -1173,7 +1173,7 @@
 		"name": "vxvault",
 		"category": "malware",
 		"ips": 64,
-		"common": 22
+		"common": 23
 	},
 	{
 		"name": "yoyo_adservers",
