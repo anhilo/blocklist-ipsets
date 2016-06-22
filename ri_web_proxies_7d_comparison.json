@@ -32,19 +32,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 22923,
+		"ips": 22997,
 		"common": 224
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1013,
+		"ips": 1010,
 		"common": 136
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 19346,
+		"ips": 19431,
 		"common": 88
 	},
 	{
@@ -84,21 +84,27 @@
 		"common": 1
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 46,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1222,
-		"common": 57
+		"ips": 1209,
+		"common": 56
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 18375,
+		"ips": 18367,
 		"common": 435
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5504,
+		"ips": 5506,
 		"common": 278
 	},
 	{
@@ -248,8 +254,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 17040,
-		"common": 364
+		"ips": 17032,
+		"common": 363
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -266,7 +272,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 102242,
+		"ips": 102317,
 		"common": 227
 	},
 	{
@@ -278,13 +284,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9570383,
+		"ips": 9570376,
 		"common": 438
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 33835,
+		"ips": 33836,
 		"common": 1485
 	},
 	{
@@ -753,24 +759,24 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 4
+		"common": 19
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1629,
-		"common": 191
+		"ips": 1619,
+		"common": 190
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8315,
+		"ips": 8316,
 		"common": 270
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 3502,
+		"ips": 3503,
 		"common": 257
 	},
 	{
@@ -824,8 +830,8 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 181,
-		"common": 47
+		"ips": 180,
+		"common": 46
 	},
 	{
 		"name": "sslproxies_30d",
