@@ -26,7 +26,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 5419,
+		"ips": 5420,
 		"common": 1
 	},
 	{
@@ -138,21 +138,27 @@
 		"common": 4
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 76032,
+		"ips": 75008,
 		"common": 2
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1646336,
+		"ips": 1645824,
 		"common": 22
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 383488,
+		"ips": 383744,
 		"common": 4
 	},
 	{
@@ -326,25 +332,25 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 90972,
+		"ips": 90957,
 		"common": 2
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 666934068,
+		"ips": 666934065,
 		"common": 11203
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 101371,
+		"ips": 100399,
 		"common": 2
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1807389,
+		"ips": 1806879,
 		"common": 149
 	},
 	{
@@ -356,7 +362,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 33636,
+		"ips": 33626,
 		"common": 1
 	},
 	{
@@ -530,7 +536,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 864,
+		"ips": 865,
 		"common": 152
 	},
 	{
@@ -578,13 +584,13 @@
 	{
 		"name": "sorbs_dul",
 		"category": "spam",
-		"ips": 373388677,
+		"ips": 373388175,
 		"common": 1076
 	},
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
-		"ips": 78712,
+		"ips": 117745,
 		"common": 1
 	},
 	{
@@ -596,13 +602,13 @@
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 896203,
+		"ips": 924607,
 		"common": 9
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
-		"ips": 6005439,
+		"ips": 6009117,
 		"common": 261
 	},
 	{
@@ -620,7 +626,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 13573,
+		"ips": 13566,
 		"common": 1
 	},
 	{
