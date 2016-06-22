@@ -20,8 +20,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1091,
-		"common": 37
+		"ips": 1102,
+		"common": 38
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -56,20 +56,26 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 23735,
-		"common": 841
+		"ips": 23885,
+		"common": 843
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1018,
+		"ips": 1021,
 		"common": 2
+	},
+	{
+		"name": "blocklist_de_imap",
+		"category": "attacks",
+		"ips": 944,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 20176,
-		"common": 839
+		"ips": 20318,
+		"common": 841
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -290,14 +296,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 100749,
-		"common": 841
+		"ips": 100899,
+		"common": 843
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1824558,
-		"common": 309
+		"ips": 1825083,
+		"common": 312
 	},
 	{
 		"name": "firehol_level4",
@@ -512,7 +518,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39751,
+		"ips": 39781,
 		"common": 51
 	},
 	{
@@ -524,31 +530,31 @@
 	{
 		"name": "openbl_180d",
 		"category": "attacks",
-		"ips": 9498,
+		"ips": 9499,
 		"common": 4
 	},
 	{
 		"name": "openbl_30d",
 		"category": "attacks",
-		"ips": 2091,
+		"ips": 2095,
 		"common": 2
 	},
 	{
 		"name": "openbl_360d",
 		"category": "attacks",
-		"ips": 20840,
+		"ips": 20844,
 		"common": 10
 	},
 	{
 		"name": "openbl_60d",
 		"category": "attacks",
-		"ips": 3522,
+		"ips": 3524,
 		"common": 4
 	},
 	{
 		"name": "openbl_90d",
 		"category": "attacks",
-		"ips": 5050,
+		"ips": 5051,
 		"common": 4
 	},
 	{
@@ -896,8 +902,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 100083,
-		"common": 255
+		"ips": 100661,
+		"common": 258
 	},
 	{
 		"name": "xroxy",

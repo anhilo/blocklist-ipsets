@@ -26,8 +26,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1091,
-		"common": 41
+		"ips": 1102,
+		"common": 42
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -92,8 +92,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 23735,
-		"common": 1367
+		"ips": 23885,
+		"common": 1369
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -104,19 +104,25 @@
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1018,
+		"ips": 1021,
 		"common": 434
+	},
+	{
+		"name": "blocklist_de_imap",
+		"category": "attacks",
+		"ips": 944,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 20176,
-		"common": 932
+		"ips": 20318,
+		"common": 934
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1499,
+		"ips": 1502,
 		"common": 1
 	},
 	{
@@ -458,14 +464,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 100749,
-		"common": 1380
+		"ips": 100899,
+		"common": 1382
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1824558,
-		"common": 1247
+		"ips": 1825083,
+		"common": 1250
 	},
 	{
 		"name": "firehol_level4",
@@ -776,8 +782,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39751,
-		"common": 67
+		"ips": 39781,
+		"common": 71
 	},
 	{
 		"name": "nullsecure",
@@ -788,31 +794,31 @@
 	{
 		"name": "openbl_180d",
 		"category": "attacks",
-		"ips": 9498,
+		"ips": 9499,
 		"common": 21
 	},
 	{
 		"name": "openbl_30d",
 		"category": "attacks",
-		"ips": 2091,
+		"ips": 2095,
 		"common": 2
 	},
 	{
 		"name": "openbl_360d",
 		"category": "attacks",
-		"ips": 20840,
+		"ips": 20844,
 		"common": 45
 	},
 	{
 		"name": "openbl_60d",
 		"category": "attacks",
-		"ips": 3522,
+		"ips": 3524,
 		"common": 6
 	},
 	{
 		"name": "openbl_90d",
 		"category": "attacks",
-		"ips": 5050,
+		"ips": 5051,
 		"common": 8
 	},
 	{
@@ -1040,7 +1046,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 860,
+		"ips": 861,
 		"common": 1
 	},
 	{
@@ -1310,8 +1316,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 100083,
-		"common": 707
+		"ips": 100661,
+		"common": 710
 	},
 	{
 		"name": "threatcrowd",
