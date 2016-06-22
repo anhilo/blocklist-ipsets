@@ -80,7 +80,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 5452,
+		"ips": 5450,
 		"common": 77
 	},
 	{
@@ -92,7 +92,7 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6817,
+		"ips": 6812,
 		"common": 199
 	},
 	{
@@ -224,8 +224,8 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6806,
-		"common": 199
+		"ips": 6829,
+		"common": 200
 	},
 	{
 		"name": "dragon_http",
@@ -264,21 +264,27 @@
 		"common": 12
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 76288,
+		"ips": 75776,
 		"common": 15
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1664768,
+		"ips": 1662976,
 		"common": 33
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 384512,
+		"ips": 384256,
 		"common": 18
 	},
 	{
@@ -326,14 +332,14 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91104,
+		"ips": 91119,
 		"common": 350
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 666983927,
-		"common": 18
+		"ips": 666983930,
+		"common": 19
 	},
 	{
 		"name": "firehol_level2",
@@ -344,13 +350,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1824062,
+		"ips": 1822285,
 		"common": 270
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9565673,
+		"ips": 9565671,
 		"common": 488
 	},
 	{
@@ -926,7 +932,7 @@
 	{
 		"name": "sslbl_aggressive",
 		"category": "malware",
-		"ips": 1952,
+		"ips": 1955,
 		"common": 1
 	},
 	{
@@ -1010,7 +1016,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 100661,
+		"ips": 100218,
 		"common": 203
 	},
 	{
