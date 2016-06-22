@@ -116,7 +116,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 5461,
+		"ips": 5463,
 		"common": 22
 	},
 	{
@@ -150,21 +150,27 @@
 		"common": 3
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 41,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1236,
+		"ips": 1234,
 		"common": 11
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 18389,
+		"ips": 18382,
 		"common": 258
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5507,
+		"ips": 5505,
 		"common": 52
 	},
 	{
@@ -488,8 +494,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 17104,
-		"common": 128
+		"ips": 17071,
+		"common": 127
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -500,7 +506,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91078,
+		"ips": 91073,
 		"common": 29
 	},
 	{
@@ -524,7 +530,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9570397,
+		"ips": 9570394,
 		"common": 405
 	},
 	{
@@ -1064,8 +1070,8 @@
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
-		"ips": 80070,
-		"common": 821
+		"ips": 79836,
+		"common": 816
 	},
 	{
 		"name": "sorbs_noserver",
@@ -1076,14 +1082,14 @@
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 898077,
-		"common": 8134
+		"ips": 897912,
+		"common": 8119
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
-		"ips": 6004992,
-		"common": 28128
+		"ips": 6005131,
+		"common": 28130
 	},
 	{
 		"name": "sp_anti_infringement",
@@ -1178,25 +1184,25 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 1022,
+		"ips": 1020,
 		"common": 1
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1094,
+		"ips": 1090,
 		"common": 2
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2990,
+		"ips": 2988,
 		"common": 17
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1484,
+		"ips": 1483,
 		"common": 6
 	},
 	{
