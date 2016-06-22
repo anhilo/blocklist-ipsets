@@ -44,38 +44,38 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 24737,
-		"common": 262
+		"ips": 24759,
+		"common": 263
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9745,
+		"ips": 9741,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1009,
+		"ips": 1005,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 211,
+		"ips": 210,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 535,
+		"ips": 536,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 21234,
-		"common": 257
+		"ips": 21268,
+		"common": 258
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -266,8 +266,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 90970,
-		"common": 8
+		"ips": 90988,
+		"common": 9
 	},
 	{
 		"name": "firehol_level1",
@@ -278,13 +278,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 100424,
-		"common": 263
+		"ips": 100448,
+		"common": 264
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1806879,
+		"ips": 1806895,
 		"common": 810
 	},
 	{
@@ -296,8 +296,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 33639,
-		"common": 8
+		"ips": 33641,
+		"common": 9
 	},
 	{
 		"name": "firehol_webserver",
@@ -476,8 +476,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37508,
-		"common": 377
+		"ips": 37659,
+		"common": 364
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -702,22 +702,28 @@
 		"common": 736
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1580,
-		"common": 2
+		"ips": 1586,
+		"common": 3
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8315,
-		"common": 5
+		"ips": 8317,
+		"common": 6
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 3525,
-		"common": 5
+		"ips": 3530,
+		"common": 6
 	},
 	{
 		"name": "sorbs_anonymizers",
