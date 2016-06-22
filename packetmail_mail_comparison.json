@@ -176,19 +176,19 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 73216,
+		"ips": 71680,
 		"common": 2
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1651968,
+		"ips": 1651200,
 		"common": 6
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 384256,
+		"ips": 383232,
 		"common": 3
 	},
 	{
@@ -218,7 +218,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91030,
+		"ips": 91029,
 		"common": 3
 	},
 	{
@@ -462,9 +462,15 @@
 		"common": 47
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1587,
+		"ips": 1592,
 		"common": 2
 	},
 	{
@@ -476,7 +482,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 3512,
+		"ips": 3514,
 		"common": 2
 	},
 	{
@@ -488,14 +494,14 @@
 	{
 		"name": "sorbs_dul",
 		"category": "spam",
-		"ips": 373388923,
+		"ips": 373388677,
 		"common": 17
 	},
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
-		"ips": 77816,
-		"common": 62
+		"ips": 78712,
+		"common": 64
 	},
 	{
 		"name": "sorbs_noserver",
@@ -506,13 +512,13 @@
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 896257,
-		"common": 101
+		"ips": 896203,
+		"common": 102
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
-		"ips": 6005425,
+		"ips": 6005439,
 		"common": 43
 	},
 	{
