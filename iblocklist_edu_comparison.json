@@ -74,7 +74,7 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 228,
+		"ips": 230,
 		"common": 3
 	},
 	{
@@ -242,7 +242,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 5397,
+		"ips": 5398,
 		"common": 56
 	},
 	{
@@ -290,25 +290,25 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6865,
-		"common": 162
+		"ips": 6864,
+		"common": 163
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1163,
+		"ips": 1150,
 		"common": 12
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 18379,
+		"ips": 18382,
 		"common": 94
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5526,
+		"ips": 5529,
 		"common": 34
 	},
 	{
@@ -344,8 +344,8 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 1195,
-		"common": 115
+		"ips": 1214,
+		"common": 116
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -356,8 +356,8 @@
 	{
 		"name": "cleanmx_phishing",
 		"category": "spam",
-		"ips": 3224,
-		"common": 28
+		"ips": 2546,
+		"common": 21
 	},
 	{
 		"name": "cleanmx_viruses",
@@ -528,21 +528,27 @@
 		"common": 181
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 512
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 73728,
+		"ips": 73472,
 		"common": 1280
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1650688,
+		"ips": 1649920,
 		"common": 15506
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 384000,
+		"ips": 384256,
 		"common": 5273
 	},
 	{
@@ -740,7 +746,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 17110,
+		"ips": 17107,
 		"common": 73
 	},
 	{
@@ -752,31 +758,31 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91053,
-		"common": 543
+		"ips": 90959,
+		"common": 541
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 666934068,
-		"common": 498072
+		"ips": 666934067,
+		"common": 498584
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 98572,
+		"ips": 98316,
 		"common": 1439
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1809682,
-		"common": 17398
+		"ips": 1808931,
+		"common": 17399
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9570481,
+		"ips": 9570484,
 		"common": 179652
 	},
 	{
@@ -1436,7 +1442,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 866,
+		"ips": 865,
 		"common": 11
 	},
 	{
