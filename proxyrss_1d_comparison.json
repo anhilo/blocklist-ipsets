@@ -50,19 +50,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 22725,
-		"common": 320
+		"ips": 22775,
+		"common": 319
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1021,
-		"common": 305
+		"ips": 1011,
+		"common": 304
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 19123,
+		"ips": 19210,
 		"common": 15
 	},
 	{
@@ -194,7 +194,7 @@
 	{
 		"name": "cruzit_web_attacks",
 		"category": "attacks",
-		"ips": 5927,
+		"ips": 5929,
 		"common": 1
 	},
 	{
@@ -308,7 +308,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91147,
+		"ips": 91138,
 		"common": 2490
 	},
 	{
@@ -320,8 +320,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 101275,
-		"common": 325
+		"ips": 101328,
+		"common": 324
 	},
 	{
 		"name": "firehol_level3",
@@ -332,13 +332,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9570386,
+		"ips": 9570388,
 		"common": 554
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 33848,
+		"ips": 33839,
 		"common": 2495
 	},
 	{
@@ -804,21 +804,27 @@
 		"common": 4
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1634,
+		"ips": 1627,
 		"common": 16
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8322,
+		"ips": 8318,
 		"common": 19
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 3503,
+		"ips": 3499,
 		"common": 16
 	},
 	{
@@ -873,25 +879,25 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 51
+		"common": 50
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 178,
-		"common": 74
+		"ips": 180,
+		"common": 75
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 13722,
+		"ips": 13717,
 		"common": 183
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1112,
-		"common": 123
+		"ips": 1113,
+		"common": 124
 	},
 	{
 		"name": "stopforumspam",
