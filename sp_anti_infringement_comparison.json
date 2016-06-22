@@ -38,7 +38,7 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 230,
+		"ips": 229,
 		"common": 1
 	},
 	{
@@ -270,22 +270,28 @@
 		"common": 46
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 54,
+		"common": 4
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1201,
-		"common": 41
+		"ips": 1195,
+		"common": 43
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 18361,
-		"common": 1056
+		"ips": 18366,
+		"common": 1059
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5530,
-		"common": 268
+		"ips": 5532,
+		"common": 269
 	},
 	{
 		"name": "bruteforceblocker",
@@ -458,7 +464,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 240885,
+		"ips": 240884,
 		"common": 53867
 	},
 	{
@@ -507,24 +513,24 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 768
+		"common": 1536
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
 		"ips": 76288,
-		"common": 7651
+		"common": 7875
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1665792,
-		"common": 255951
+		"ips": 1665024,
+		"common": 255695
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 384000,
+		"ips": 384512,
 		"common": 49417
 	},
 	{
@@ -717,7 +723,7 @@
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
 		"ips": 17271,
-		"common": 1640
+		"common": 1642
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -734,26 +740,26 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 666983928,
-		"common": 6331
+		"ips": 666983927,
+		"common": 7099
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 100982,
-		"common": 10259
+		"ips": 100980,
+		"common": 10482
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1825087,
-		"common": 271078
+		"ips": 1824319,
+		"common": 270822
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9559287,
-		"common": 25967
+		"ips": 9559292,
+		"common": 25970
 	},
 	{
 		"name": "firehol_proxies",
