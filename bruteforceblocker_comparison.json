@@ -56,8 +56,8 @@
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
-		"ips": 2687,
-		"common": 431
+		"ips": 2730,
+		"common": 432
 	},
 	{
 		"name": "bi_http_2_30d",
@@ -86,7 +86,7 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 29072,
+		"ips": 29066,
 		"common": 1
 	},
 	{
@@ -134,7 +134,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 5474,
+		"ips": 5471,
 		"common": 29
 	},
 	{
@@ -200,13 +200,13 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 116275,
+		"ips": 116277,
 		"common": 10
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 34256,
+		"ips": 34236,
 		"common": 1
 	},
 	{
@@ -218,13 +218,13 @@
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 33495,
+		"ips": 33497,
 		"common": 3
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 14934,
+		"ips": 14910,
 		"common": 1
 	},
 	{
@@ -290,19 +290,19 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 79872,
+		"ips": 79360,
 		"common": 40
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1677312,
+		"ips": 1675008,
 		"common": 254
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 387328,
+		"ips": 387072,
 		"common": 124
 	},
 	{
@@ -338,19 +338,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 17145,
+		"ips": 17121,
 		"common": 2
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 283464,
+		"ips": 283467,
 		"common": 29
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91243,
+		"ips": 91242,
 		"common": 1
 	},
 	{
@@ -368,19 +368,19 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1837025,
+		"ips": 1834721,
 		"common": 1150
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9570445,
+		"ips": 9570442,
 		"common": 148
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 33899,
+		"ips": 33898,
 		"common": 1
 	},
 	{
@@ -574,6 +574,12 @@
 		"category": "malware",
 		"ips": 59614,
 		"common": 66
+	},
+	{
+		"name": "lashback_ubl",
+		"category": "spam",
+		"ips": 209102,
+		"common": 1
 	},
 	{
 		"name": "maxmind_proxy_fraud",
