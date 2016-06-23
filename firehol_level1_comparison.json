@@ -336,22 +336,28 @@
 		"common": 592708608
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 35,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1165,
-		"common": 30
+		"ips": 1159,
+		"common": 31
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 18480,
-		"common": 415
+		"ips": 18463,
+		"common": 413
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5613,
-		"common": 154
+		"ips": 5618,
+		"common": 155
 	},
 	{
 		"name": "botvrij_dst",
@@ -782,8 +788,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 16539,
-		"common": 563
+		"ips": 16538,
+		"common": 564
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -812,7 +818,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9570092,
+		"ips": 9570077,
 		"common": 6597381
 	},
 	{
@@ -1424,7 +1430,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 865,
+		"ips": 864,
 		"common": 162
 	},
 	{
@@ -1456,6 +1462,30 @@
 		"category": "malware",
 		"ips": 49,
 		"common": 49
+	},
+	{
+		"name": "ri_connect_proxies",
+		"category": "anonymizers",
+		"ips": 151,
+		"common": 2
+	},
+	{
+		"name": "ri_connect_proxies_1d",
+		"category": "anonymizers",
+		"ips": 201,
+		"common": 2
+	},
+	{
+		"name": "ri_connect_proxies_30d",
+		"category": "anonymizers",
+		"ips": 1719,
+		"common": 2
+	},
+	{
+		"name": "ri_connect_proxies_7d",
+		"category": "anonymizers",
+		"ips": 597,
+		"common": 2
 	},
 	{
 		"name": "satellite",
