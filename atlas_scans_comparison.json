@@ -3,31 +3,31 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 12061,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "atlas_attacks",
 		"category": "attacks",
 		"ips": 10,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "atlas_attacks_2d",
 		"category": "attacks",
 		"ips": 17,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "atlas_attacks_30d",
 		"category": "attacks",
 		"ips": 88,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "atlas_attacks_7d",
 		"category": "attacks",
 		"ips": 31,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "atlas_scans_2d",
@@ -38,13 +38,13 @@
 	{
 		"name": "atlas_scans_30d",
 		"category": "attacks",
-		"ips": 109,
+		"ips": 102,
 		"common": 10
 	},
 	{
 		"name": "atlas_scans_7d",
 		"category": "attacks",
-		"ips": 26,
+		"ips": 24,
 		"common": 10
 	},
 	{
@@ -69,19 +69,19 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 1130,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
 		"ips": 77056,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "dshield_30d",
@@ -99,13 +99,13 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 666934351,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 103370,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "firehol_level3",
@@ -147,13 +147,31 @@
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 1062,
-		"common": 5
+		"common": 4
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 139023007,
+		"common": 1
+	},
+	{
+		"name": "jigsaw_attacks",
+		"category": "attacks",
+		"ips": 27109,
+		"common": 2
 	},
 	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 45889672,
 		"common": 5
+	},
+	{
+		"name": "shunlist",
+		"category": "attacks",
+		"ips": 500,
+		"common": 1
 	},
 	{
 		"name": "sorbs_dul",
@@ -168,21 +186,9 @@
 		"common": 1
 	},
 	{
-		"name": "sorbs_web",
-		"category": "spam",
-		"ips": 6011776,
-		"common": 1
-	},
-	{
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 9756,
 		"common": 3
-	},
-	{
-		"name": "voipbl",
-		"category": "attacks",
-		"ips": 17201,
-		"common": 1
 	}
 ]
