@@ -220,7 +220,7 @@ This script will update each ipset and call firehol to update the ipset while th
 
 # List of ipsets included
 
-The following list was automatically generated on Thu Jun 23 02:37:43 UTC 2016.
+The following list was automatically generated on Thu Jun 23 02:40:47 UTC 2016.
 
 The update frequency is the maximum allowed by internal configuration. A list will never be downloaded sooner than the update frequency stated. A list may also not be downloaded, after this frequency expired, if it has not been modified on the server (as reported by HTTP `IF_MODIFIED_SINCE` method).
 
@@ -1171,7 +1171,7 @@ php_bad|[projecthoneypot.org](http://www.projecthoneypot.org/?rf=192670) bad web
 [satellite](http://iplists.firehol.org/?ipset=satellite)|Satellite Service Providers -- [MaxMind GeoLite2](http://dev.maxmind.com/geoip/geoip2/geolite2/)|ipv4 hash:net|782 subnets, 683874 unique IPs|updated every 7 days  from [this link](http://geolite.maxmind.com/download/geoip/database/GeoLite2-Country-CSV.zip)
 [sblam](http://iplists.firehol.org/?ipset=sblam)|[sblam.com](http://sblam.com) IPs used by web form spammers, during the last month|ipv4 hash:ip|7287 unique IPs|updated every 1 day  from [this link](http://sblam.com/blacklist.txt)
 [shunlist](http://iplists.firehol.org/?ipset=shunlist)|[AutoShun.org](http://autoshun.org/) IPs identified as hostile by correlating logs from distributed snort installations running the autoshun plugin|ipv4 hash:ip|500 unique IPs|updated every 4 hours  from [this link](http://www.autoshun.org/files/shunlist.csv)
-[snort_ipfilter](http://iplists.firehol.org/?ipset=snort_ipfilter)|[labs.snort.org](https://labs.snort.org/) supplied IP blacklist (this list seems to be updated frequently, but we found no information about it)|ipv4 hash:ip|101886 unique IPs|updated every 12 hours  from [this link](http://labs.snort.org/feeds/ip-filter.blf)
+[snort_ipfilter](http://iplists.firehol.org/?ipset=snort_ipfilter)|[labs.snort.org](https://labs.snort.org/) supplied IP blacklist (this list seems to be updated frequently, but we found no information about it)|ipv4 hash:ip|83400 unique IPs|updated every 12 hours  from [this link](http://labs.snort.org/feeds/ip-filter.blf)
 [socks_proxy](http://iplists.firehol.org/?ipset=socks_proxy)|[socks-proxy.net](http://www.socks-proxy.net/) open SOCKS proxies|ipv4 hash:ip|80 unique IPs|updated every 10 mins  from [this link](http://www.socks-proxy.net/)
 [socks_proxy_1d](http://iplists.firehol.org/?ipset=socks_proxy_1d)|[socks-proxy.net](http://www.socks-proxy.net/) open SOCKS proxies|ipv4 hash:ip|1544 unique IPs|updated every 10 mins  from [this link](http://www.socks-proxy.net/)
 [socks_proxy_30d](http://iplists.firehol.org/?ipset=socks_proxy_30d)|[socks-proxy.net](http://www.socks-proxy.net/) open SOCKS proxies|ipv4 hash:ip|8290 unique IPs|updated every 10 mins  from [this link](http://www.socks-proxy.net/)
