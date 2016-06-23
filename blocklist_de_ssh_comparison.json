@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 12061,
-		"common": 518
+		"common": 516
 	},
 	{
 		"name": "atlas_attacks",
@@ -51,13 +51,13 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 1383,
-		"common": 55
+		"common": 54
 	},
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
 		"ips": 1026,
-		"common": 465
+		"common": 464
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -92,8 +92,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 25425,
-		"common": 1425
+		"ips": 25518,
+		"common": 1428
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -105,7 +105,7 @@
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 4664,
-		"common": 102
+		"common": 103
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -159,7 +159,7 @@
 		"name": "bruteforceblocker",
 		"category": "attacks",
 		"ips": 1130,
-		"common": 258
+		"common": 260
 	},
 	{
 		"name": "ciarmy",
@@ -273,13 +273,13 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 45
+		"common": 44
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
 		"ips": 77312,
-		"common": 91
+		"common": 90
 	},
 	{
 		"name": "dshield_30d",
@@ -291,7 +291,7 @@
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 384512,
-		"common": 189
+		"common": 188
 	},
 	{
 		"name": "dshield_top_1000",
@@ -303,7 +303,7 @@
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 22835501,
-		"common": 53
+		"common": 52
 	},
 	{
 		"name": "et_botcc",
@@ -315,13 +315,13 @@
 		"name": "et_compromised",
 		"category": "attacks",
 		"ips": 1134,
-		"common": 212
+		"common": 214
 	},
 	{
 		"name": "et_dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 44
+		"common": 43
 	},
 	{
 		"name": "et_spamhaus",
@@ -336,16 +336,22 @@
 		"common": 17
 	},
 	{
+		"name": "firehol_anonymous",
+		"category": "anonymizers",
+		"ips": 90890,
+		"common": 1
+	},
+	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 666934325,
-		"common": 55
+		"common": 54
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 103441,
-		"common": 1425
+		"ips": 103534,
+		"common": 1428
 	},
 	{
 		"name": "firehol_level3",
@@ -357,13 +363,19 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9570085,
-		"common": 263
+		"common": 264
+	},
+	{
+		"name": "firehol_proxies",
+		"category": "anonymizers",
+		"ips": 33617,
+		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46099224,
-		"common": 101
+		"common": 102
 	},
 	{
 		"name": "gofferje_sip",
@@ -459,7 +471,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762822833,
-		"common": 64
+		"common": 63
 	},
 	{
 		"name": "iblocklist_level2",
@@ -522,6 +534,12 @@
 		"common": 7
 	},
 	{
+		"name": "maxmind_proxy_fraud",
+		"category": "anonymizers",
+		"ips": 433,
+		"common": 1
+	},
+	{
 		"name": "myip",
 		"category": "abuse",
 		"ips": 2432,
@@ -530,7 +548,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38083,
+		"ips": 38128,
 		"common": 2
 	},
 	{
@@ -549,49 +567,49 @@
 		"name": "openbl_180d",
 		"category": "attacks",
 		"ips": 9499,
-		"common": 534
+		"common": 532
 	},
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 135,
-		"common": 90
+		"ips": 140,
+		"common": 94
 	},
 	{
 		"name": "openbl_30d",
 		"category": "attacks",
 		"ips": 2094,
-		"common": 452
+		"common": 450
 	},
 	{
 		"name": "openbl_360d",
 		"category": "attacks",
 		"ips": 20853,
-		"common": 543
+		"common": 541
 	},
 	{
 		"name": "openbl_60d",
 		"category": "attacks",
 		"ips": 3519,
-		"common": 480
+		"common": 478
 	},
 	{
 		"name": "openbl_7d",
 		"category": "attacks",
 		"ips": 710,
-		"common": 328
+		"common": 327
 	},
 	{
 		"name": "openbl_90d",
 		"category": "attacks",
 		"ips": 5052,
-		"common": 497
+		"common": 495
 	},
 	{
 		"name": "openbl_all",
 		"category": "attacks",
 		"ips": 119044,
-		"common": 552
+		"common": 550
 	},
 	{
 		"name": "packetmail",
@@ -729,7 +747,7 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 8662,
-		"common": 110
+		"common": 111
 	},
 	{
 		"name": "talosintel_ipfilter",
