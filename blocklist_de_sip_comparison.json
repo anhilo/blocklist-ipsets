@@ -56,8 +56,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 26213,
-		"common": 86
+		"ips": 26288,
+		"common": 87
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -152,7 +152,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 90935,
+		"ips": 90942,
 		"common": 1
 	},
 	{
@@ -164,8 +164,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 106783,
-		"common": 86
+		"ips": 106860,
+		"common": 87
 	},
 	{
 		"name": "firehol_level3",
@@ -183,13 +183,13 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46099224,
-		"common": 18
+		"common": 19
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095024,
-		"common": 34
+		"common": 35
 	},
 	{
 		"name": "graphiclineweb",
@@ -309,7 +309,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 45889672,
-		"common": 18
+		"common": 19
 	},
 	{
 		"name": "sblam",
@@ -396,6 +396,12 @@
 		"common": 1
 	},
 	{
+		"name": "stopforumspam_toxic",
+		"category": "abuse",
+		"ips": 552279,
+		"common": 1
+	},
+	{
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 8662,
@@ -417,6 +423,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 17201,
-		"common": 56
+		"common": 57
 	}
 ]
