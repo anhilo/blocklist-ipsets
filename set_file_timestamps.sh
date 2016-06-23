@@ -1095,7 +1095,7 @@
 [ -f 'geolite2_country/satellite.netset' ] && /bin/touch --date=@1465305233 'geolite2_country/satellite.netset'
 [ -f 'sblam.ipset' ] && /bin/touch --date=@1466570077 'sblam.ipset'
 [ -f 'shunlist.ipset' ] && /bin/touch --date=@1466616601 'shunlist.ipset'
-[ -f 'snort_ipfilter.ipset' ] && /bin/touch --date=@1466605800 'snort_ipfilter.ipset'
+[ -f 'snort_ipfilter.ipset' ] && /bin/touch --date=@1466649000 'snort_ipfilter.ipset'
 [ -f 'socks_proxy.ipset' ] && /bin/touch --date=@1466648523 'socks_proxy.ipset'
 [ -f 'socks_proxy_1d.ipset' ] && /bin/touch --date=@1466648523 'socks_proxy_1d.ipset'
 [ -f 'socks_proxy_30d.ipset' ] && /bin/touch --date=@1466648523 'socks_proxy_30d.ipset'
