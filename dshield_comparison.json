@@ -92,20 +92,26 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 25579,
+		"ips": 25671,
 		"common": 55
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 9740,
+		"common": 2
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 128,
+		"ips": 129,
 		"common": 7
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1426,
-		"common": 48
+		"ips": 1425,
+		"common": 46
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -116,7 +122,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 4686,
+		"ips": 4688,
 		"common": 20
 	},
 	{
@@ -158,8 +164,8 @@
 	{
 		"name": "cleanmx_viruses",
 		"category": "spam",
-		"ips": 13908,
-		"common": 4
+		"ips": 13507,
+		"common": 3
 	},
 	{
 		"name": "cleantalk_30d",
@@ -272,20 +278,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 103370,
+		"ips": 103461,
 		"common": 5120
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1803574,
+		"ips": 1803928,
 		"common": 5120
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9570090,
-		"common": 63
+		"ips": 9569693,
+		"common": 62
 	},
 	{
 		"name": "firehol_webserver",
@@ -536,7 +542,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 85696,
+		"ips": 86069,
 		"common": 1
 	},
 	{

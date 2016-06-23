@@ -20,19 +20,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 25579,
+		"ips": 25671,
 		"common": 215
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9737,
+		"ips": 9740,
 		"common": 6
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 990,
+		"ips": 991,
 		"common": 136
 	},
 	{
@@ -44,25 +44,25 @@
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 522,
+		"ips": 526,
 		"common": 62
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 918,
+		"ips": 913,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 22103,
+		"ips": 22187,
 		"common": 12
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 4686,
+		"ips": 4688,
 		"common": 68
 	},
 	{
@@ -86,32 +86,38 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 35,
-		"common": 3
+		"ips": 29,
+		"common": 2
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1159,
+		"ips": 1162,
 		"common": 69
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 18463,
-		"common": 113
+		"ips": 18454,
+		"common": 114
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5618,
-		"common": 106
+		"ips": 5621,
+		"common": 107
 	},
 	{
 		"name": "cidr_report_bogons",
 		"category": "unroutable",
 		"ips": 604493384,
 		"common": 3
+	},
+	{
+		"name": "cleanmx_viruses",
+		"category": "spam",
+		"ips": 13507,
+		"common": 1
 	},
 	{
 		"name": "cleantalk",
@@ -266,20 +272,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 103370,
+		"ips": 103461,
 		"common": 218
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1803574,
+		"ips": 1803928,
 		"common": 90
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9570090,
-		"common": 182
+		"ips": 9569693,
+		"common": 184
 	},
 	{
 		"name": "firehol_proxies",
@@ -452,8 +458,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38232,
-		"common": 12
+		"ips": 38316,
+		"common": 15
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -842,7 +848,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 85696,
+		"ips": 86069,
 		"common": 19
 	},
 	{
